@@ -1,5 +1,5 @@
 ---
-title: "2027449 - PERCEPCION REMOTA AVANZADA"
+title: "2015896 - GEOMATICA BASICA"
 subtitle: "Academic Year: 2023"
 format: html
 ---
@@ -7,7 +7,7 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Syllabus
 
-(12/03/2023)
+(09/08/2023)
 
 - [🗓️ Know the syllabus here!](/2023/syllabus.qmd)
 
@@ -37,7 +37,7 @@ _ASSOCIATE PROFESSOR_ <br/>
 
 Office Hours: 
 
-- When: Fridays morning every fortnight
+- When: Fridays 11:00 am every fortnight
 - Where: Oficina 333
 - How to book: via e-mail
 
@@ -50,4 +50,4 @@ Office Hours:
 
 # 📍 Dates - Location
 
-Wednesdays 2pm-6pm at SALON 103
+Wednesdays 9pm-11pm at SALON 103

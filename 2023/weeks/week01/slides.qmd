@@ -1,5 +1,5 @@
 ---
-subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+subtitle: " 2015896-- GEOMATICA BASICA"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo(#)
 institute: '[Universidad Nacional de Colombia](#)'
@@ -18,9 +18,9 @@ format:
     slide-number: true
     mouse-wheel: false
     preview-links: auto
-    logo: /figures/icons/ARS-1.png
+    logo: /figures/icons/earth.jpeg
     css: /css/styles_slides.css
-    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+    footer: '2015896 -- GEOMATICA BASICA'
 ---
 
 # Who are we
@@ -46,11 +46,11 @@ format:
 - **Background**: Civil Engineer 
 
 
-<span class="tag" style="background-color:var(--quarto-hl-st-color)">deep ocean</span>
+<span class="tag" style="background-color:var(--quarto-hl-st-color)">machine and deep learning</span>
 <br/>
-<span class="tag" style="background-color:var(--quarto-hl-fu-color)">Civil Engineer</span>
+<span class="tag" style="background-color:var(--quarto-hl-fu-color)">Earth Observation</span>
 <br/>
-<span class="tag" style="background-color:var(--quarto-hl-dv-color)">Geography</span>
+<span class="tag" style="background-color:var(--quarto-hl-dv-color)">Territorial sustainability</span>
 
 :::
 
@@ -62,33 +62,34 @@ format:
 
 :::
 
-# What we know about remote sensing 
+# What we know about geomatics 
+Please open notebook and  answer the next questions
 
-Open your notebook and write down if you agree or not with each of the next statements
 
-## Statement 1
-Satellites measure the reflectance of features on the ground
+## Question 1
+The radius of Earth is ...  km
 
-## Statement 2
-Land cover classification is a simple process of grouping  pixels based on spectral properties 
+
+## Question 2
+The area of  Colombia is ... km2
+
 
 ## Statement 3
-Spectral resolution is the number of bands  available from a particular sensor 
+The area of Bogota municipality is ...  km2
 
 ## Statement 4
-Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
+The UNAL Bogota campus is about ... hectares
+
 
 ## Statement 5
-Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
+The distance between Sun and Earth is ... km
 
-## Statement 6
-Square pixels in an image accurately represent a square area on the Earth's surface
 
-# What we know about Python
+# What we know about software
 
-## Basic python quiz 
+## Basic questions
 
-### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
+### Tell us about  your computational experience & skills
 
 # Flipped classroom
 
@@ -98,15 +99,15 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-## [Read this document](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
+## [Read this document](https://drive.google.com/file/d/1soU2Tqkom76N2xmT_tNbO8dk3fP3mLj8/view?usp=sharing) and take notes
 
-This chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.
+What is geomatics?
+Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
 
-Frery, Wu and Gomez, 2022. *SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications* 
 
 
 ## [Watch this video](https://www.iceye.com/vos-talk1-video-page)
 
-In this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.
 
-Speaker: Tom Ager (ICEYE)
+
+Speaker: ZZZ

@@ -1,5 +1,5 @@
 ---
-title: "2027449 - PERCEPCION REMOTA AVANZADA"
+title: "2015896 - GEOMATICA BASICA"
 format:
   html:
     include-before-body: helpers/remove-nav.html
@@ -8,16 +8,16 @@ format:
 
 # 📑 Course Brief
 
-**Focus:** the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.
+**Focus:** the focus of this course is introduce concepts, methods and tecniques used in geoinformation disciplines.
 
 **How:** reading,  learning by doing and writing
 
 # 🎯 Learning Objectives
 
-- Appraise the process of image analysis and its relation to research.
-- Understand the physical principles of optical and radar-based remote sensing. 
-- Distinguish the main steps for SAR images correction.
-- Apply advanced computational techniques  to obtain thematic information from Earth Observation data.
+- Appraise the usefulness of geospatial data for supporting agronomy.
+- Understand basic concepts about geodesy, cartography, GIS, remote sensing, and geostatistics. 
+- Be able to apply geospatial techniques for data collection, processing, visualization and analysis.
+- Develop  critical spatial thinking.
 
 
 

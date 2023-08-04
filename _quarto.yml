@@ -1,6 +1,6 @@
 project:
   type: "website"
-  title: "PERCEPCION REMOTA AVANZADA 2023"
+  title: "GEOMATICA BASICA 2023"
   output-dir: _output
   render:
     - "index.qmd"
@@ -8,7 +8,7 @@ project:
     - "2023/weeks/week01/*.qmd"
 
 website:
-  title: "PERCEPCION REMOTA AVANZADA 2023"
+  title: "GEOMATICA BASICA 2023"
   page-navigation: true
   reader-mode: true
   open-graph: true
