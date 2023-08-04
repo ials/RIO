@@ -28,18 +28,25 @@
     "text": "Question 2\nThe area of Colombia is … km2"
   },
   {
-    "objectID": "2023/weeks/week01/slides.html#statement-3",
-    "href": "2023/weeks/week01/slides.html#statement-3",
+    "objectID": "2023/weeks/week01/slides.html#question-3",
+    "href": "2023/weeks/week01/slides.html#question-3",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nThe area of Bogota municipality is … km2"
+    "section": "Question 3",
+    "text": "Question 3\nThe area of Bogota municipality is … km2"
   },
   {
-    "objectID": "2023/weeks/week01/slides.html#statement-4",
-    "href": "2023/weeks/week01/slides.html#statement-4",
+    "objectID": "2023/weeks/week01/slides.html#question-4",
+    "href": "2023/weeks/week01/slides.html#question-4",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nThe UNAL Bogota campus is about … hectares"
+    "section": "Question 4",
+    "text": "Question 4\nThe UNAL Bogota campus is about … hectares"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#question-5",
+    "href": "2023/weeks/week01/slides.html#question-5",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 5",
+    "text": "Question 5\nHow many hectares is 1 km by 1 km"
   },
   {
     "objectID": "2023/weeks/week01/slides.html#statement-5",
@@ -67,35 +74,28 @@
     "href": "2023/weeks/week01/slides.html#read-this-document-and-take-notes",
     "title": "🗓️ Week 01 Introduction",
     "section": "Read this document and take notes",
-    "text": "Read this document and take notes\nWhat is geomatics? Gomarasca, M. Basics of Geomatics. Springer, 2009."
+    "text": "Read this document and take notes\nWhat is geomatics?\nGomarasca, M. Basics of Geomatics. Springer, 2009."
   },
   {
-    "objectID": "2023/weeks/week01/slides.html#watch-this-video",
-    "href": "2023/weeks/week01/slides.html#watch-this-video",
+    "objectID": "2023/weeks/week01/slides.html#watch-this-video-and-take-notes",
+    "href": "2023/weeks/week01/slides.html#watch-this-video-and-take-notes",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Watch this video",
-    "text": "Watch this video\nSpeaker: ZZZ\n\n\n\n2015896 – GEOMATICA BASICA"
+    "section": "Watch this video and take notes",
+    "text": "Watch this video and take notes\nWhat is geomatics?\nLength: 11:40\nSpeaker: Trent University\n\n\n\n2015896 – GEOMATICA BASICA"
   },
   {
     "objectID": "2023/syllabus.html",
     "href": "2023/syllabus.html",
     "title": "2015896 - GEOMATICA BASICA",
     "section": "",
-    "text": "OBJETIVOS:\n\n\n\n\n\n\nEntender y aplicar conceptos, métodos y técnicas geoespaciales.\nDesarrollar destrezas prácticas para realizar procesos digitales útiles en las ciencias agronómicas.\nBrindar oportunidades para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa.\n\n\n\n\nCapacidad para usar las herramientas tecnológicas, de la información y de la comunicación\nCapacidad para organización y planificación\nCapacidad de comunicación\n\n\n\n\n\nCapacidad de abstracción, análisis y síntesis.\nCapacidad de integrar y aplicar los conocimientos en la práctica.\nCapacidad de lectura en inglés.\nCapacidad para organizar y planificar el tiempo.\nCapacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa\n\n\n\n\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante"
-  },
-  {
-    "objectID": "2023/syllabus.html#descripción-de-la-asignatura",
-    "href": "2023/syllabus.html#descripción-de-la-asignatura",
-    "title": "2015896 - GEOMATICA BASICA",
-    "section": "",
-    "text": "OBJETIVOS:\n\n\n\n\n\n\nEntender y aplicar conceptos, métodos y técnicas geoespaciales.\nDesarrollar destrezas prácticas para realizar procesos digitales útiles en las ciencias agronómicas.\nBrindar oportunidades para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa.\n\n\n\n\nCapacidad para usar las herramientas tecnológicas, de la información y de la comunicación\nCapacidad para organización y planificación\nCapacidad de comunicación\n\n\n\n\n\nCapacidad de abstracción, análisis y síntesis.\nCapacidad de integrar y aplicar los conocimientos en la práctica.\nCapacidad de lectura en inglés.\nCapacidad para organizar y planificar el tiempo.\nCapacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa\n\n\n\n\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante"
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\n\n\nEntender y aplicar conceptos, métodos y técnicas geoespaciales.\nDesarrollar destrezas prácticas para realizar procesos digitales útiles en las ciencias agronómicas.\nBrindar oportunidades para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa.\n\n\n\n\n\nCapacidad para usar las herramientas tecnológicas, de la información y de la comunicación\nCapacidad para organización y planificación\nCapacidad de comunicación\n\n\n\n\n\nCapacidad de abstracción, análisis y síntesis.\nCapacidad de integrar y aplicar los conocimientos en la práctica.\nCapacidad de lectura en inglés.\nCapacidad para organizar y planificar el tiempo.\nCapacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa\n\n\n\n\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante"
   },
   {
     "objectID": "2023/syllabus.html#contenido-detallado",
     "href": "2023/syllabus.html#contenido-detallado",
     "title": "2015896 - GEOMATICA BASICA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nSemana 1 – Introducción, contexto y conceptos básicos\n\n\n\n\n\n\nSemana 2 – Datos geoespaciales e información geográfica\n\n\nSemana 3 - Sistemas de coordenadas y proyecciones cartográticas\n\n\nSemana 4 - Conceptos básicos de cartografía\n\n\nSemana 5 – Bases de datos geográficos\n\n\nSemana 6 – Exploración, consulta y análisis de datos espaciales\n\n\nSemana 7 – Servicios web geográficos\n\n\nSemana 8 – Sistemas satelitales de navegación global\n\n\nSemana 9 – Calidad de datos geográficos\n\n\nSemana 10 – Principios físicos de percepción remota\n\n\nSemana 11 – Percepción remota de la vegetación\n\n\nSemana 12 - Métodos determinísticos de interpolación espacial\n\n\nSemanas 13 y 14 - Métodos geoestadísticos de interpolación espacial\n\n\nSemana 15 - Fundamentos de aprendizaje de máquina\n\n\nSemana 16 - Esbozo de agricultura digital\n\n\n\n\n::: {.callout-important collapse=true}"
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportant\n\n\n\n\n\nSemana 1 – Introducción, contexto y conceptos básicos\nSemana 2 – Datos geoespaciales e información geográfica\nSemana 3 - Sistemas de coordenadas y proyecciones cartográticas\nSemana 4 - Conceptos básicos de cartografía\nSemana 5 - Modelos digitales de elevación\nSemana 6 – Sistemas de información geográfica\nSemana 7 – Servicios web geográficos\nSemana 8 – Sistemas satelitales de navegación global\nSemana 9 – Calidad de datos geográficos\nSemana 10 – Principios físicos de percepción remota\nSemana 11 – Percepción remota de la vegetación\nSemana 12 - Métodos determinísticos de interpolación espacial\nSemanas 14 y 15 - Métodos geoestadísticos de interpolación espacial\nSemana 16 - Agricultura digital"
   },
   {
     "objectID": "2023/syllabus.html#evaluación-del-curso",
