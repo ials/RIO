@@ -111,10 +111,12 @@ Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
 
 
 
-## Watch [this video](https://www.youtube.com/watch?v=cnjDI-yJekk) and take notes
+## Watch [this video](https://www.youtube.com/watch?v=dDSAz7ZkEqI) and take notes
 
 What is geomatics?
 
-Length: 11:40
+Which are its disciplines?
 
-Speaker: Trent University
+Length: 12:34
+
+Speaker: Amol Deshmukh
