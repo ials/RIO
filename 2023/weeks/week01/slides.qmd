@@ -74,11 +74,15 @@ The radius of Earth is ...  km
 The area of  Colombia is ... km2
 
 
-## Statement 3
+## Question 3
 The area of Bogota municipality is ...  km2
 
-## Statement 4
+## Question 4
 The UNAL Bogota campus is about ... hectares
+
+## Question 5
+
+How many hectares is 1 km by 1 km
 
 
 ## Statement 5
@@ -99,15 +103,18 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-## [Read this document](https://drive.google.com/file/d/1soU2Tqkom76N2xmT_tNbO8dk3fP3mLj8/view?usp=sharing) and take notes
+## Read [this document](https://drive.google.com/file/d/1soU2Tqkom76N2xmT_tNbO8dk3fP3mLj8/view?usp=sharing) and take notes
 
 What is geomatics?
+
 Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
 
 
 
-## [Watch this video](https://www.iceye.com/vos-talk1-video-page)
+## Watch [this video](https://www.youtube.com/watch?v=cnjDI-yJekk) and take notes
 
+What is geomatics?
 
+Length: 11:40
 
-Speaker: ZZZ
+Speaker: Trent University

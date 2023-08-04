@@ -4,8 +4,10 @@ subtitle: "Academic Year: 2023"
 format: html
 ---
 
-## DESCRIPCIÓN DE LA ASIGNATURA:
 ::: {.callout-important collapse=false}
+
+## DESCRIPCIÓN DE LA ASIGNATURA:
+
 ### OBJETIVOS:
 - Entender y aplicar conceptos, métodos y técnicas geoespaciales.
 - Desarrollar destrezas prácticas para realizar procesos digitales útiles en las ciencias agronómicas.
@@ -34,39 +36,34 @@ format: html
 
 ::: {.callout-important collapse=true}
 
+Semana 1 –  Introducción, contexto y conceptos básicos
 
-### Semana 1 –  Introducción, contexto y conceptos básicos
+Semana 2 –  Datos geoespaciales e información geográfica
 
-### Semana 2 –  Datos geoespaciales e información geográfica
+Semana 3 -  Sistemas de coordenadas y proyecciones cartográticas
 
-### Semana 3 -  Sistemas de coordenadas y proyecciones cartográticas
+Semana 4 - Conceptos básicos de cartografía
 
-### Semana 4 - Conceptos básicos de cartografía
+Semana 5 - Modelos digitales de elevación
 
-### Semana 5 – Bases de datos geográficos
+Semana 6 –  Sistemas de información geográfica
 
-### Semana 6 – Exploración, consulta y análisis de datos espaciales
+Semana 7 –  Servicios web geográficos
 
-### Semana 7 –  Servicios web geográficos
+Semana 8 –  Sistemas satelitales de navegación global
 
-### Semana 8 –  Sistemas satelitales de navegación global
+Semana 9 – Calidad de datos geográficos
 
-### Semana 9 – Calidad de datos geográficos
+Semana 10 – Principios físicos de percepción remota
 
-### Semana 10 – Principios físicos de percepción remota
+Semana 11 – Percepción remota de la vegetación
 
-### Semana 11 – Percepción remota de la vegetación
+Semana 12 - Métodos determinísticos de interpolación espacial
 
-### Semana 12 - Métodos determinísticos de interpolación espacial
+Semanas 14 y 15 - Métodos geoestadísticos de interpolación espacial
 
-### Semanas 13 y 14 - Métodos geoestadísticos de interpolación espacial
-
-### Semana 15 - Fundamentos de aprendizaje de máquina
-
-### Semana 16 - Esbozo de agricultura digital
+Semana 16 - Agricultura digital
 :::
-
-::: {.callout-important collapse=true}
 
 
 ## EVALUACIÓN DEL CURSO: 
@@ -101,7 +98,5 @@ Pebesma, E. & Bivand, R. Spatial data science with applications in R. CRC Press,
 Plant, R.E. Spatial Data Analysis in Ecology and Agriculture Using R [2nd ed.], CRC Press, 2019.
 
 Wegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016.
-
-
 
 :::
