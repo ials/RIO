@@ -1,0 +1,33 @@
+---
+title: "🗓️ Week 02 - Geospatial data and geographical information"
+---
+
+In this first week, we will cover the following topics:
+
+**Theoretical topics**:
+  - What are the most important characteristics of geographic data?
+  - How are geographic data transformed into information?
+  - What conceptual models are used to digitally represent geographic objects and phenomena?
+  - What are the most commonly used data structures and formats?
+  - What is a geographic information system?
+
+**Practical exercises**:
+  - Downloading and visualizing geographic data
+  - Review of geographic metadata
+
+## 👨‍🏫 Lecture Slides 
+
+
+TBW
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 In your  notebook,  answer the following questions 🚧
+
+TBW
+
+## 📚 Recommended Reading (and watching)
+
+TBW
