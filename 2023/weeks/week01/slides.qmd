@@ -63,9 +63,15 @@ format:
 
 :::
 
-# What we know about geomatics 
+# What is geomatics?
 
  Geomatics is the discipline concerned with the collection, distribution, storage, analysis, processing, presentation of geographic data or geographic information (ISO 19122:2004)
+
+# What is a GIS?
+
+Burrough (1997), defined a GIS as a system for collecting, storing, retrieving at will, transforming and displaying spatial data from the real world for a particular set of purposes.
+
+A working GIS integrates five key components: hardware, software, data, people, and methods
 
 # What we know about our planet and territory
 
@@ -106,16 +112,11 @@ The distance between Sun and Earth is ... km
 
 A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
 
-# To do before next class
+# To do before next week
 
-## Read [this document](https://drive.google.com/file/d/1soU2Tqkom76N2xmT_tNbO8dk3fP3mLj8/view?usp=sharing) and take notes
+## Read [this document](https://drive.google.com/file/d/1C2lJOKFKODd9KatWsp7Q-L5pJQEPO6mo/view?usp=sharing) and take notes
 
-- What is geomatics?
-
-
-Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
-
-
+- Spatial data models (Bolstad, 2019)
 
 ## Watch [this video](https://www.youtube.com/watch?v=dDSAz7ZkEqI) and take notes
 
@@ -126,3 +127,17 @@ Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
 Length: 12:34
 
 Speaker: Amol Deshmukh
+
+## Supplementary lecture
+
+You can find a good introduction to geomatics [in this document](https://drive.google.com/file/d/1soU2Tqkom76N2xmT_tNbO8dk3fP3mLj8/view?usp=sharing) 
+
+Chapter 1 from Gomarasca, M. *Basics of Geomatics*. Springer, 2009.
+
+# A simple exercise
+
+Describe this map made by Diego Gutierrez (1562):
+<p align="center">
+<img src="figures/SA_1562.png" width="65%" height="65%" />
+</p>
+#![](figures/SA_1562.png)
