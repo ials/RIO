@@ -29,6 +29,11 @@ format: html
 -	Lectura antes de la clase a cargo del estudiante
 -   Presentación de conceptos, métodos y técnicas a cargo del profesor
 -	Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
+
+### SOFTWARE:
+-	QGIS
+-   R & RStudio
+
 :::
 
 
