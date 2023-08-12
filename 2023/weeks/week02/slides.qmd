@@ -35,7 +35,7 @@ A discrete object has known and definable boundaries
 
 ## Continuous surface view
 
-A continuous surface represents phenomena where each location on the surface is a measure of the concentration level or its relationship from a fixed point in space or from an emitting source
+A continuous surface represents phenomena which may vary from place to place
 
 <figure>
     <img src="figures/continuous.png" width="500" height="500" >
@@ -43,8 +43,6 @@ A continuous surface represents phenomena where each location on the surface is 
 
 
 # Common spatial data models
-
- There are two main conceptualizations used for geospatial data
 
  <figure>
     <img src="figures/raster_vector.png"  width="600" height="400" >
@@ -61,20 +59,22 @@ A continuous surface represents phenomena where each location on the surface is 
 ## Polygons
 
 <figure>
-    <img src="figures/polygons.png"  width="800" height="400" >
+    <img src="figures/polygons.png"  width="900" height="400" >
 </figure>
 
 ## Multiple representations
 
 <p align="center">
-<img src="figures/multiple_reprsentations.png" width="75%" height="75%" />
+<img src="figures/multiple_representations.png" width="75%" height="75%" />
 </p>
 
 ## Spaghetti
 
 <p align="center">
-<img src="figures/spaghetti_et_al.png" width="75%" height="75%" />
+<img src="figures/spaghetti_et_al.png" width="70%" height="70%" />
 </p>
+
+## Topology
 
 <p align="center">
 <img src="figures/topology_tables.png" width="75%" height="75%" />
@@ -85,7 +85,7 @@ A continuous surface represents phenomena where each location on the surface is 
 ## Gridded structure
 
 <figure>
-    <img src="figures/raster_model.png"  width="500" height="400" >
+    <img src="figures/raster_model.png"  width="600" height="500" >
 </figure>
 
 ## Cell size
@@ -97,20 +97,22 @@ A continuous surface represents phenomena where each location on the surface is 
 ## Cell asignment
 
 <p align="center">
-<img src="figures/cell_assignment.png" width="75%" height="75%" />
+<img src="figures/cell_assignment.png" width="50%" height="50%" />
 </p>
 
 # Raster vs Vector
 
 <figure>
-    <img src="figures/raster_vector_comparison.png"  width="800" height="600" >
+    <img src="figures/raster_vector_comparison.png"  width="700" height="500" >
 </figure>
 
 #  Vector vs Raster
 
-• How are roads portrayed in vector and raster?
-• Give two examples when it would be best to use vector data.
-• Give two examples when it would be best to use raster data.
+How are roads portrayed in vector and raster?
+
+Give two examples when it would be best to use vector data.
+
+Give two examples when it would be best to use raster data.
 
 # A simple exercise
 
@@ -123,6 +125,8 @@ Is it possible convert from raster to vector?
 
 # To do before next week
 
-## Read [this document](https://drive.google.com/file/d/14xeh1vla7unSIxlh7DCbBzc7QlujyDh0/view?usp=drive_link) and take notes
+## Read [this document](https://drive.google.com/file/d/14xeh1vla7unSIxlh7DCbBzc7QlujyDh0/view?usp=drive_link) 
 
-- Planar vs Spherical Coordinate Systems (Bolstad, 2019)
+It deals with planar and spherical soordinate systems (Bolstad, 2019)
+
+Then, answer this week questions
