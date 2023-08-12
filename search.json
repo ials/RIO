@@ -11,7 +11,7 @@
     "href": "2023/weeks/week02/slides.html#continuous-surface-view",
     "title": "🗓️ Week 01 Spatial data models",
     "section": "Continuous surface view",
-    "text": "Continuous surface view\nA continuous surface represents phenomena where each location on the surface is a measure of the concentration level or its relationship from a fixed point in space or from an emitting source"
+    "text": "Continuous surface view\nA continuous surface represents phenomena which may vary from place to place"
   },
   {
     "objectID": "2023/weeks/week02/slides.html#points-and-lines",
@@ -42,6 +42,13 @@
     "text": "Spaghetti"
   },
   {
+    "objectID": "2023/weeks/week02/slides.html#topology",
+    "href": "2023/weeks/week02/slides.html#topology",
+    "title": "🗓️ Week 01 Spatial data models",
+    "section": "Topology",
+    "text": "Topology"
+  },
+  {
     "objectID": "2023/weeks/week02/slides.html#gridded-structure",
     "href": "2023/weeks/week02/slides.html#gridded-structure",
     "title": "🗓️ Week 01 Spatial data models",
@@ -63,11 +70,11 @@
     "text": "Cell asignment"
   },
   {
-    "objectID": "2023/weeks/week02/slides.html#read-this-document-and-take-notes",
-    "href": "2023/weeks/week02/slides.html#read-this-document-and-take-notes",
+    "objectID": "2023/weeks/week02/slides.html#read-this-document",
+    "href": "2023/weeks/week02/slides.html#read-this-document",
     "title": "🗓️ Week 01 Spatial data models",
-    "section": "Read this document and take notes",
-    "text": "Read this document and take notes\n\nPlanar vs Spherical Coordinate Systems (Bolstad, 2019)\n\n\n\n\n2015896 – GEOMATICA BASICA"
+    "section": "Read this document",
+    "text": "Read this document\nIt deals with planar and spherical soordinate systems (Bolstad, 2019)\nThen, answer this week questions\n\n\n\n2015896 – GEOMATICA BASICA"
   },
   {
     "objectID": "2023/weeks/week01/slides2.html#your-lecturer",
