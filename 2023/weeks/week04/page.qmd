@@ -1,0 +1,46 @@
+---
+title: "🗓️ Week 04 - Fundamentals of Cartography"
+---
+
+In this week, we will cover the following topics:
+
+**Theoretical topics**:
+
+## 👨‍🏫 Lecture Slides 
+
+You can find the slides [here](https://drive.google.com/file/d/1lSJ7OYnLE32xoRL_LRu_mv0mCV9hKgKA/view?usp=sharing)
+
+
+**Practical exercises**:
+
+Students make two maps for Department X:
+1. A political map displaying municipalities and urban centers 
+2. A physical map displaying elevation, roads, hidrography, and urban centers
+
+Guide:
+[How to make a map of municipalities in QGIS](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view)
+
+**Make sure you bring the two maps, printed in color, to the next class**
+
+🎥 
+
+## 📚 Recommended Reading 
+
+Read [Cartography: an Introduction](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf) and take notes
+
+## ✍️ Coursework
+
+🚧 In your  notebook,  answer the following questions 🚧
+
+### Cartography
+::: {.callout-important collapse=true}
+1. What is the geographic area covered by one IGAC map sheet at 1:2000 scale?
+2. In a 1:25000 scale map, how many cm2 represent 100 ha?
+3. In a 1:5000 scale map, 10 cm2 equals how many hectares?
+:::
+
+
+
+
+
+
