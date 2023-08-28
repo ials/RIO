@@ -11,12 +11,12 @@ In this week, we will cover the following topics:
 You can find the slides [here](https://drive.google.com/file/d/1lSJ7OYnLE32xoRL_LRu_mv0mCV9hKgKA/view?usp=sharing)
 
 
-**Practical exercises**:
+## **Practical exercises**:
 
 Students make two maps for Department X:
 
-### 1. A political map displaying municipalities and urban centers 
-### 2. A physical map displaying elevation, roads, hidrography, and urban centers
+#### 1. A political map displaying municipalities and urban centers 
+#### 2. A physical map displaying elevation, roads, hidrography, and urban centers
 
 Guide:
 [How to make a map of municipalities in QGIS](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view)
