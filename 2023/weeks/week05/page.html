@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>GEOMATICA BASICA 2023 - 🗓️ Week 02 - Geospatial data and geographical information</title>
+<title>GEOMATICA BASICA 2023 - 🗓️ Week 05 - Getting to know R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2023/weeks/week03/page.html" rel="next">
-<link href="../../../2023/weeks/week01/page.html" rel="prev">
+<link href="../../../2023/weeks/week04/page.html" rel="prev">
 <link href="../../../figures/icons/ARS-1.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -67,19 +66,19 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="GEOMATICA BASICA 2023 - 🗓️ Week 02 - Geospatial data and geographical information">
+<meta property="og:title" content="GEOMATICA BASICA 2023 - 🗓️ Week 05 - Getting to know R">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://github.com/ials/GB/2023/weeks/week02/figures/W2_Q1.png">
+<meta property="og:image" content="https://github.com/ials/GB/2023/weeks/week05/figures/why_learn_R.png">
 <meta property="og:site-name" content="GEOMATICA BASICA 2023">
-<meta property="og:image:height" content="566">
-<meta property="og:image:width" content="950">
-<meta name="twitter:title" content="GEOMATICA BASICA 2023 - 🗓️ Week 02 - Geospatial data and geographical information">
+<meta property="og:image:height" content="748">
+<meta property="og:image:width" content="1484">
+<meta name="twitter:title" content="GEOMATICA BASICA 2023 - 🗓️ Week 05 - Getting to know R">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://github.com/ials/GB/2023/weeks/week02/figures/W2_Q1.png">
+<meta name="twitter:image" content="https://github.com/ials/GB/2023/weeks/week05/figures/why_learn_R.png">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
-<meta name="twitter:image-height" content="566">
-<meta name="twitter:image-width" content="950">
+<meta name="twitter:image-height" content="748">
+<meta name="twitter:image-width" content="1484">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -109,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2023/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2023/weeks/week02/page.html">Week 02</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2023/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2023/weeks/week05/page.html">Week 05</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -161,16 +160,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2023/weeks/week02/page.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../../2023/weeks/week02/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 02</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2023/weeks/week02/page.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2023/weeks/week02/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -212,16 +211,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2023/weeks/week05/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2023/weeks/week05/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 05</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2023/weeks/week05/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2023/weeks/week05/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -239,12 +238,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#why-learn-r" id="toc-why-learn-r" class="nav-link active" data-scroll-target="#why-learn-r">Why Learn R?</a></li>
+  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#practical-exercises" id="toc-practical-exercises" class="nav-link" data-scroll-target="#practical-exercises"><strong>Practical exercises</strong>:</a></li>
+  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a>
+  <ul class="collapse">
+  <li><a href="#make-sure-you-deliver-the-twpo-maps-of-your-department-on-6th-september-12.5" id="toc-make-sure-you-deliver-the-twpo-maps-of-your-department-on-6th-september-12.5" class="nav-link" data-scroll-target="#make-sure-you-deliver-the-twpo-maps-of-your-department-on-6th-september-12.5">** Make sure you deliver the twpo maps of your department on 6th September (12.5%)**</a></li>
+  </ul></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
   <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">✍️ Coursework</a>
   <ul class="collapse">
-  <li><a href="#question-1" id="toc-question-1" class="nav-link" data-scroll-target="#question-1">Question 1</a></li>
-  <li><a href="#question-2" id="toc-question-2" class="nav-link" data-scroll-target="#question-2">Question 2</a></li>
+  <li><a href="#ejercicios-en-r" id="toc-ejercicios-en-r" class="nav-link" data-scroll-target="#ejercicios-en-r">Ejercicios en R</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -254,7 +258,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 02 - Geospatial data and geographical information</h1>
+<h1 class="title">🗓️ Week 05 - Getting to know <strong>R</strong></h1>
 </div>
 
 
@@ -275,52 +279,70 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>In this week, we will cover the following topics:</p>
-<p><strong>Theoretical topics</strong>:</p>
-<p>What are the most important characteristics of geographic data?</p>
-<p>How are geographic data transformed into information?</p>
-<p>What conceptual models are used to represent geographic objects and phenomena</p>
-<p>What are the most commonly used data structures and formats?</p>
-<p><strong>Practical exercises</strong>:</p>
-<p>Download and visualize geographic data</p>
-<p>Review of geographic metadata</p>
+<p>In this week, we will start learning <strong>R</strong> and <strong>RStudio</strong></p>
+<section id="why-learn-r" class="level2">
+<h2 class="anchored" data-anchor-id="why-learn-r">Why Learn R?</h2>
+<figure class="figure">
+<img align="center" width="600" height="500" src="figures/why_learn_R.png" class="figure-img">
+</figure>
+</section>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
-<p>You can find the slides <a href="../../../2023/weeks/week02/slides.html">here</a></p>
-<p>🎥</p>
+<p>You can find the slides <a href="https://drive.google.com/file/d/1THssVqZ7iD0k7nJzCLijqMPvCpV-4Q42/view?usp=sharing">here</a></p>
 </section>
-<section id="recommended-reading" class="level2">
-<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
-<p>Read <a href="https://drive.google.com/file/d/14xeh1vla7unSIxlh7DCbBzc7QlujyDh0/view?usp=drive_link">this document</a> and take notes</p>
-</section>
-<section id="coursework" class="level2">
-<h2 class="anchored" data-anchor-id="coursework">✍️ Coursework</h2>
-<p>🚧 In your notebook, answer the following questions 🚧</p>
-<section id="question-1" class="level3">
-<h3 class="anchored" data-anchor-id="question-1">Question 1</h3>
-<div class="callout callout-style-default callout-important callout-titled">
+<section id="practical-exercises" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercises"><strong>Practical exercises</strong>:</h2>
+<div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Important
+Note
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p align="left">
-<img src="figures/W2_Q1.png" width="75%" height="75%">
-</p>
+<p><a href="https://www.uv.es/conesa/CursoR/material/problemas-sesion1.pdf">Ejercicios Sesión 06.09</a></p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p><a href="https://www.uv.es/conesa/CursoR/material/problemas-sesion2.pdf">Ejercicios Sesión 07.09</a></p>
 </div>
 </div>
 </div>
 </section>
-<section id="question-2" class="level3">
-<h3 class="anchored" data-anchor-id="question-2">Question 2</h3>
+<section id="homework" class="level2">
+<h2 class="anchored" data-anchor-id="homework">Homework</h2>
+<section id="make-sure-you-deliver-the-twpo-maps-of-your-department-on-6th-september-12.5" class="level3">
+<h3 class="anchored" data-anchor-id="make-sure-you-deliver-the-twpo-maps-of-your-department-on-6th-september-12.5">** Make sure you deliver the twpo maps of your department on 6th September (12.5%)**</h3>
+<p>🎥</p>
+</section>
+</section>
+<section id="recommended-reading" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-reading">📚 Recommended Reading</h2>
+<p>Study <a href="https://bookdown.org/daniel_dauber_io/r4np_book/">R for Non-Programmers</a> and do the exercises</p>
+</section>
+<section id="coursework" class="level2">
+<h2 class="anchored" data-anchor-id="coursework">✍️ Coursework</h2>
+<p>🚧 In your notebook, answer the following questions 🚧</p>
+<section id="ejercicios-en-r" class="level3">
+<h3 class="anchored" data-anchor-id="ejercicios-en-r">Ejercicios en R</h3>
 <div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
@@ -329,11 +351,13 @@ Important
 </div>
 <div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p align="left">
-<img src="figures/W2_Q2.png" width="75%" height="75%">
-</p>
+<ol type="1">
+<li>Escriba una función que calcule la distancia entre dos puntos cuyas coordenadas <em>x</em>, <em>y</em> son conocidas</li>
+<li>Escriba una función que calcule la longitud de un arco de circunferencia si se indica su ángulo<br>
+</li>
+</ol>
 </div>
 </div>
 </div>
@@ -594,14 +618,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../2023/weeks/week01/page.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 01</span>
+      <a href="../../../2023/weeks/week04/page.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 04</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../2023/weeks/week03/page.html" class="pagination-link">
-        <span class="nav-page-text">Week 03</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
