@@ -39,7 +39,7 @@ Study [R for Non-Programmers](https://bookdown.org/daniel_dauber_io/r4np_book/) 
 ### Ejercicios en R
 ::: {.callout-important collapse=true}
 1. Escriba una función que calcule la distancia entre dos puntos cuyas coordenadas *x*, *y* son conocidas
-2. Escriba una función que calcule la longitud de un arco de circunferencia si se indica su ángulo  
+2. Escriba una función que calcule la longitud de un arco terrestre si se indica su ángulo  y la latitud correspondiente
 :::
 
 
