@@ -1,29 +1,21 @@
 ---
-title: "2015896 - GEOMATICA BASICA"
+title: "RIO - PERCEPCION REMOTA"
 format:
   html:
     include-before-body: helpers/remove-nav.html
     include-after-body: helpers/remove-title.html
 ---
 
-# 📑 Course Brief
+# 📑 Resumen del curso
 
-**Focus:** the focus of this course is introduce concepts, methods and tecniques used in geoinformation disciplines.
+**Enfoque:**  Entender y aplicar conceptos, métodos y técnicas de teletección.
 
-**How:** reading,  learning by doing and writing
-
-# 🎯 Learning Objectives
-
-- Appraise the usefulness of geospatial data for supporting agronomy.
-- Understand basic concepts about geodesy, cartography, GIS, remote sensing, and geostatistics. 
-- Be able to apply geospatial techniques for data collection, processing, visualization and analysis.
-- Develop  critical spatial thinking.
-
+**Metodología:**  Aprender haciendo 
 
 
 -----------------
 
-**Select Academic Year/Term:**
+**Seleccione Año:**
 
 <a href="2023/index.qmd">
     <button class="button-61">2023</button>

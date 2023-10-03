@@ -1,0 +1,36 @@
+---
+title: "🗓️ Sesion 1 - Primeros pasos con Google Earth Engine"
+---
+
+Los ejercicios prácticos de la **Sesión 1** comprenden tres bloques:
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. Cómo acceder  a Google Earth Engine
+
+[Acceso a GEE y Nociones de JavaScript](https://ials.github.io/GEE/00-access-javascript/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. Para qué es útil Google Earth Engine
+
+[Introducción a GEE](https://ials.github.io/GEE/01-introduction/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 3. Cómo escribir código en Google Earth Engine
+
+[Editor de código](https://ials.github.io/GEE/02-code-editor/index.html)
+
+:::
+
+
+
+
+
+
+

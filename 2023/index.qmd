@@ -1,6 +1,6 @@
 ---
-title: "2015896 - GEOMATICA BASICA"
-subtitle: "Academic Year: 2023"
+title: " PERCEPCION REMOTA"
+subtitle: "Año: 2023"
 format: html
 ---
 
@@ -9,45 +9,43 @@ format: html
 
 (09/08/2023)
 
-- [🗓️ Know the syllabus here!](/2023/syllabus.qmd)
+- [🗓️ Revise el contenido del curso aquí!](/2023/syllabus.qmd)
 
 :::
 
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(11/09/2023)
+(06/10/2023)
 
-- [🗓️ Week 06 lecture material](/2023/weeks/week06/page.qmd) is now available!
+- [🗓️ El material de la sesión 01](/2023/sesiones/sesion01/page.qmd) está disponible!
 
 :::
 
 
-# 🧑🏻‍🏫 Our Team
+# 🧑🏻‍🏫 Nuestro Equipo
 
 ::: {.panel-tabset}
-## Course Convenor
+## Instructor
 
 
 ![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
 **[IVAN LIZARAZO](#)** <br/>
-_ASSOCIATE PROFESSOR_ <br/>
+_PROFESOR_ <br/>
 [UNAL](#)</a><br/>
 📧 [ializarazos@unal.edu.co](mailto:)
 
-Office Hours: 
 
-- When: Fridays 10:30 am every fortnight
-- Where: Oficina 333
-- How to book: via e-mail
+## Monitor
 
-## Teaching Staff
-
-**IALS**
-
+![](/figures/people/rcb.png){fig-align="left" fig-alt="Photo of RICARDO CUITIVA" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
+**[RICARDO CUITIVA](#)** <br/>
+_DESARROLLADOR_ <br/>
+[STGEO](#)</a><br/>
+📧 [ricardo.cuitiva@stgeo.co](mailto:)
 
 :::
 
-# 📍 Dates - Location
+# 📍 Fechas - Lugar
 
-Wednesdays 9am-11am at SALON 103
+Viernes de Octubre - 9am-11am - SALON XYZ

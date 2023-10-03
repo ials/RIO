@@ -1,17 +1,17 @@
-# Geomatica Basica
+# Percepción Remota 
 
 <figure>
-    <img src="./figures/icons/earth.jpeg" alt="Logo for the GB course'"  role="presentation" style="object-fit: cover;width:15em;height:5em;border-radius: 50%;">
+    <img src="./figures/icons/earth.jpeg" alt="Logo for the RIO course'"  role="presentation" style="object-fit: cover;width:15em;height:5em;border-radius: 100%;">
     <figcaption>
         <span style="display:inline-block;font-size:0.6em;width:60%;">
-        ## GEOMATICA BASICA
+        ## PERCEPCION REMOTA 
         </span>
     </figcaption>
 
 </figure>
 
 
-## An university course website created using Quarto.
+## A course website created using Quarto.
 
 ### 💡 This website is based on a template found [here](https://github.com/jonjoncardoso/quarto-template-for-university-courses).
 

@@ -1,0 +1,28 @@
+---
+title: "🗓️ Week 01 - Introduction, Context & Key Concepts"
+---
+
+
+## 👨‍🏫 Conceptos básicos de teledetección 
+
+Haga clic en la zona de diapositivas  ó clic [aquí](slides.qmd) para ver en pantalla completa.
+Use el teclado para navegar en las diapositivas.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Ejercicios prácticos
+
+🚧 Haga clic [aquí](lab.qmd)  🚧
+
+
+## 📚 Lecturas recomendadas 
+
+- En las diapositivas se indican las referencias usadas.
+
+## 📟 Comunicación
+
+- Durante la sesión práctica, utilice el chat para comunicarse con el monitor. 

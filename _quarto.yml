@@ -1,26 +1,22 @@
 project:
   type: "website"
-  title: "GEOMATICA BASICA 2023"
+  title: "PERCEPCION REMOTA"
   output-dir: _output
   render:
     - "index.qmd"
     - "2023/*.qmd"
-    - "2023/weeks/week01/*.qmd"
-    - "2023/weeks/week02/*.qmd"
-    - "2023/weeks/week03/*.qmd"
-    - "2023/weeks/week04/*.qmd"
-    - "2023/weeks/week05/*.qmd"
-    - "2023/weeks/week06/*.qmd"
+    - "2023/sesiones/sesion01/*.qmd"
+
 
 website:
-  title: "GEOMATICA BASICA 2023"
+  title: "PERCEPCION REMOTA"
   page-navigation: true
   reader-mode: true
   open-graph: true
   twitter-card: 
     creator: "@<twitter-handle>"
     site: "\\@<twitter-handle>"
-  favicon: "figures/icons/ARS-1.png"
+  favicon: "figures/icons/STGEO.jpeg"
   search:
     location: navbar
     type: textbox
@@ -42,42 +38,18 @@ website:
       #       text: "📝 Assignment 02"
       #     - href: 2023/assignments/group_project.qmd
       #       text: "👥 Group Project"
-      - section: "🗓️ Weeks"
+      - section: "🗓️ Sesiones"
         contents:
-         - href: 2023/weeks/week01/page.qmd
-           text: Week 01
+         - href: 2023/sesiones/sesion01/page.qmd
+           text: Sesion 01
            contents:
-             - href: 2023/weeks/week01/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/lab.qmd
-            #    text: 💻 Lab Roadmap
+             - href: 2023/sesiones/sesion01/page.qmd
+               text: 👨‍🏫 Teoría
+             - href: 2023/sesiones/sesion01/lab.qmd
+               text: 💻 Práctica
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2023/weeks/week02/page.qmd
-           text: Week 02
-           contents:
-             - href: 2023/weeks/week02/page.qmd
-               text: 👨‍🏫 Lecture Material
-         - href: 2023/weeks/week03/page.qmd
-           text: Week 03
-           contents:
-             - href: 2023/weeks/week03/page.qmd
-               text: 👨‍🏫 Lecture Material
-         - href: 2023/weeks/week04/page.qmd
-           text: Week 04
-           contents:
-             - href: 2023/weeks/week04/page.qmd
-               text: 👨‍🏫 Lecture Material
-         - href: 2023/weeks/week05/page.qmd
-           text: Week 05
-           contents:
-             - href: 2023/weeks/week05/page.qmd
-               text: 👨‍🏫 Lecture Material
-         - href: 2023/weeks/week06/page.qmd
-           text: Week 06
-           contents:
-             - href: 2023/weeks/week06/page.qmd
-               text: 👨‍🏫 Lecture Material
+  
 
   navbar:
     background: primary

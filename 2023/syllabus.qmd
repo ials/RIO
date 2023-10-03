@@ -1,38 +1,30 @@
 ---
-title: "2015896 - GEOMATICA BASICA"
-subtitle: "Academic Year: 2023"
+title: "RIO - PERCEPCION REMOTA BASICA"
+subtitle: "Año: 2023"
 format: html
 ---
 
 ::: {.callout-important collapse=false}
 
-## DESCRIPCIÓN DE LA ASIGNATURA:
+## DESCRIPCIÓN DEL CURSO:
 
 ### OBJETIVOS:
-- Entender y aplicar conceptos, métodos y técnicas geoespaciales.
-- Desarrollar destrezas prácticas para realizar procesos digitales útiles en las ciencias agronómicas.
-- Brindar oportunidades para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa.
+- Entender los fundamentos teóricos y conceptuales de la teledetección 
+- Realizar procesos prácticos usando herramientales computacionales 
+- Desarrollar capacidades analíticas para entender el potencial de la teledetección
 
-### COMPETENCIAS GENÉRICAS: 
-- Capacidad para usar las herramientas tecnológicas, de la información y de la comunicación
-- Capacidad para organización y planificación
-- Capacidad de comunicación
-
-### COMPETENCIAS ESPECÍFICAS:
-- Capacidad de abstracción, análisis y síntesis.
-- Capacidad de integrar y aplicar los conocimientos en la práctica.
-- Capacidad de lectura en inglés.
-- Capacidad para organizar y planificar el tiempo.
-- Capacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa
+### COMPETENCIAS:
+-	Buscar, recopilar y visualizar imágenes satelitales.
+-	Entender  las características y los niveles de procesamiento de las imágenes.
+-	Obtener e interpretar índices espectrales a partir de las imágenes.
+-	Capacidad para acceder y usar plataformas computacionales en la nube 
 
 ### METODOLOGIA:
--	Lectura antes de la clase a cargo del estudiante
 -   Presentación de conceptos, métodos y técnicas a cargo del profesor
--	Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
+-	Realización de ejercicios prácticos a cargo de los asistentes
 
 ### SOFTWARE:
--	QGIS
--   R & RStudio
+-	Google Earth Engine (GEE)
 
 :::
 
@@ -40,67 +32,82 @@ format: html
 ## CONTENIDO DETALLADO 
 
 ::: {.callout-important collapse=true}
+### Sesión 1 – 6 de octubre 
 
-Semana 1 –  Introducción, contexto y conceptos básicos
+Clase T1: 
 
-Semana 2 –  Datos geoespaciales e información geográfica
+- Introducción a la teledetección
 
-Semana 3 -  Sistemas de coordenadas y proyecciones cartográticas
+- Formación de imágenes
 
-Semana 4 - Conceptos básicos de cartografía
+- Plataformas aéreas y satelitales
 
-Semana 5 - Modelos digitales de elevación
+Clase P1: 
 
-Semana 6 –  Sistemas de información geográfica
+- Primeros pasos con GEE
 
-Semana 7 –  Servicios web geográficos
+- Interfaz de usuario
 
-Semana 8 –  Sistemas satelitales de navegación global
-
-Semana 9 – Calidad de datos geográficos
-
-Semana 10 – Principios físicos de percepción remota
-
-Semana 11 – Percepción remota de la vegetación
-
-Semana 12 - Métodos determinísticos de interpolación espacial
-
-Semanas 14 y 15 - Métodos geoestadísticos de interpolación espacial
-
-Semana 16 - Agricultura digital
+- Importación de datos
 :::
 
+::: {.callout-important collapse=true}
+### Sesión 2 – 13 de octubre 
 
-## EVALUACIÓN DEL CURSO: 
+Clase T2: 
 
-::: {.callout-important collapse=false}
+- Fundamentos físicos
 
--	Presentación de dos exámenes escritos sobre aspectos teóricos (50%)
-    - Examen 1 - 20 de Septiembre
-    - Examen 2 - 22 de Noviembre
--	Entrega de dos informes técnicos  (50%)
-    - Informe 1 - 27 de Septiembre
-    - Informe 2 - 29 de Noviembre
+- El proceso de percepción remota
 
+Clase P2:
+
+- Tipos de objetos
+
+- ee.Geometry
+
+- ee.FeatureCollection
+:::
+
+::: {.callout-important collapse=true}
+### Sesión 3 – 20 de octubre 
+Clase T3: 
+
+- Realces y transformaciones
+
+- Indices espectrales
+
+Clase P3:
+
+- ee.Image
+
+- ee.ImageCollectiom
+
+- Funciones y métodos comunes
+:::
+
+::: {.callout-important collapse=true}
+### Sesión 4 – 27 de octubre 
+Clase T4: 
+
+- Métodos de clasificación
+
+- Evaluación de exactitud
+
+Clase P4:
+
+- Clasificación supervisada
+
+- Evaluación de exactitud
 :::
 
 ## BIBLIOGRAFIA
 
 ::: {.callout-important collapse=true}
 
-Brunsdon, C. and Comber, L. An introduction to R for spatial analysis and mapping [2nd ed.], SAGE, 2019.
+Jensen, J.R. Introductory Digital Image Processing [4th edition], Pearson, 2016.
 
-Duncombe, R. Digital technologies for Agricultural and Rural Development in the Global South. CABI, 2018.
-
-Gomarasca, M. Basics of Geomatics. Springer, 2009.
-
-Longley, P.A., Goodchild M.F., Maguire, D.J. and Rhind, D.W. Geographic Information Systems [4th edition], Wiley, 2015.
-
-Lovelace, R., Nowosad, J., and Muenchow, J. Geocomputation with R [2nd ed.],CRC Press, 2023. Available at https://geocompr.robinlovelace.net/
-
-Pebesma, E. & Bivand, R. Spatial data science with applications in R. CRC Press, 2023.
-
-Plant, R.E. Spatial Data Analysis in Ecology and Agriculture Using R [2nd ed.], CRC Press, 2019.
+Solórzano, J.V. y Perilla, G.A. Cómo usar Google Earth Engine y no fallar en el intento, UNAM - Instituto Humboldt, 2022.
 
 Wegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016.
 
