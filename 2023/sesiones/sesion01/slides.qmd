@@ -256,7 +256,7 @@ son acrónimos que pueden incluir el nombre del satélite.</font>
 ## Coordenadas geográficas
 
 <p align="center">
-<img src="figures/GEO.png" width="120%" height="120%" />
+<img src="figures/Geo.png" width="120%" height="120%" />
 </p>
 
 ## Coordenadas planas
