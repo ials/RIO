@@ -94,11 +94,6 @@ format:
 
 :::
 
-## Asistentes {.smaller}
-
-<font size="6">Presentación</font>
-
-
 # Qué es teledetección?
 
 <font size="3">Fuente: ARSET (2021)</font>
