@@ -275,7 +275,7 @@ son acrónimos que pueden incluir el nombre del satélite.</font>
 ## Origen nacional
 
 <p align="center">
-<img src="figures/origennacional.png" width="70%" height="70%" />
+<img src="figures/origennacional.png" width="60%" height="60%" />
 </p>
 
 # Datos vectoriales
@@ -283,7 +283,7 @@ son acrónimos que pueden incluir el nombre del satélite.</font>
 ## Shapefile (1)
 
 <p align="center">
-<img src="figures/shapefile1.png" width="50%" height="50%" />
+<img src="figures/shapefile1.png" width="40%" height="40%" />
 </p>
 
 ## Shapefile (2)
