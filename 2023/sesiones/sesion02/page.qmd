@@ -1,54 +1,23 @@
 ---
-title: "🗓️ Week 02 - Geospatial data and geographical information"
+title: "🗓️ Week 02 - Color compositions & Spectral indices"
 ---
 
-In this week, we will cover the following topics:
 
-**Theoretical topics**:
+## 👨‍🏫 Teoría
 
-What are the most important characteristics of geographic data?
-
-How are geographic data transformed into information?
-
-What conceptual models are used to represent geographic objects and phenomena
-
-What are the most commonly used data structures and formats?
-
-**Practical exercises**:
-
-Download and visualize geographic data
-
-Review of geographic metadata
-
-## 👨‍🏫 Lecture Slides 
-
-You can find the slides [here](slides.qmd)
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
 
 🎥 
 
-## 📚 Recommended Reading 
-
-Read [this document](https://drive.google.com/file/d/14xeh1vla7unSIxlh7DCbBzc7QlujyDh0/view?usp=drive_link) and take notes
-
-## ✍️ Coursework
-
-🚧 In your  notebook,  answer the following questions 🚧
-
-### Question 1
-::: {.callout-important collapse=true}
-<p align="left">
-<img src="figures/W2_Q1.png" width="75%" height="75%" />
-</p>
-
-:::
-
-### Question 2
-::: {.callout-important collapse=true}
-<p align="left">
-<img src="figures/W2_Q2.png" width="75%" height="75%" />
-</p>
+## ✍️ Ejercicios prácticos
 
 
-:::
+🚧 Haga clic [aquí](lab.qmd)  🚧
 
 
+
+## 📟 Comunicación
+
+- Durante la sesión práctica, si requiere ayuda comuníquese con el monitor. 

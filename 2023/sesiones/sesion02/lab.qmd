@@ -1,0 +1,36 @@
+---
+title: "🗓️ Sesion 2 - Práctica con Google Earth Engine"
+---
+
+Los ejercicios prácticos de la **Sesión 2** comprenden tres bloques:
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. Composiciones a color
+
+[Composiciones a color](https://ials.github.io/GEE/03-bands-combinations/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. Indices espectrales - Landsat 8
+
+[Series de tiempo NDVI - L8](https://ials.github.io/GEE/04-L8-indices/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 3. Indices espectrales - Sentinel 2
+
+[Series de tiempo NDVI -S2](https://ials.github.io/GEE/05-S2-indices/index.html)
+
+:::
+
+
+
+
+
+
+

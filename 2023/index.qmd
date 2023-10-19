@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(06/10/2023)
+(19/10/2023)
 
-- [🗓️ El material de la sesión 01](/2023/sesiones/sesion01/page.qmd) está disponible!
+- [🗓️ El material de la sesión 02](/2023/sesiones/sesion02/page.qmd) está disponible!
 
 :::
 
@@ -32,7 +32,7 @@ format: html
 ![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
 **[IVAN LIZARAZO](#)** <br/>
 _PROFESOR_ <br/>
-[UNAL](#)</a><br/>
+UNAL</a><br/>
 📧 [ializarazos@unal.edu.co](mailto:)
 
 

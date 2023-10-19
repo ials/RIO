@@ -1,14 +1,14 @@
 ---
-subtitle: " 2015896-- GEOMATICA BASICA"
-title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Spatial data models</font>"
-author: Ivan Lizarazo(#)
-institute: '[Universidad Nacional de Colombia](#)'
-date: 16 August 2023
-date-meta: 16 August 2023
+subtitle: " RIO-- PERCEPCION REMOTA"
+title: "<font style='font-size:0.5em;'>🗓️ Sesión 02<br/> [Composiciones a color & Indices de vegetación</font>](https://drive.google.com/file/d/1fgVXBKZidHp_AAOzumEYeDnGfykMT8SS/view?usp=sharing)"
+author: Ivan Lizarazo
+institute: ''
+date: 20 October 2023
+date-meta: 20 October 2023
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
-toc-title: "What we will cover today:"
+toc-title: "Temas de hoy:"
 center-title-slide: false
 from: markdown+emoji
 format:
@@ -20,113 +20,23 @@ format:
     preview-links: auto
     logo: /figures/icons/earth.jpeg
     css: /css/styles_slides.css
-    footer: '2015896 -- GEOMATICA BASICA'
+    footer: 'RIO -- PERCEPCION REMOTA'
 ---
 
-# Spatial data models
+## Presentación
 
-## Discrete objects view
+[Enlace](https://drive.google.com/file/d/1fgVXBKZidHp_AAOzumEYeDnGfykMT8SS/view?usp=sharing)
 
-A discrete object has known and definable boundaries
-
-<figure>
-    <img src="figures/discrete.png" width="500" height="500" >
-</figure>
-
-## Continuous surface view
-
-A continuous surface represents phenomena which may vary from place to place
-
-<figure>
-    <img src="figures/continuous.png" width="500" height="500" >
-</figure>
+## Qué son composiciones a  color?
 
 
-# Common spatial data models
+[Colour composite](https://eo.belspo.be/en/colour-composites)
 
- <figure>
-    <img src="figures/raster_vector.png"  width="600" height="400" >
-</figure>
 
-# Vector data model
+## Qué son indices de vegetación?
 
-## Points and lines
+[Vegetation indices](https://www.usgs.gov/special-topics/remote-sensing-phenology/science/vegetation-indices)
 
-<figure>
-    <img src="figures/points_lines.png"  width="800" height="600" >
-</figure>
+## Sesión de preguntas
 
-## Polygons
-
-<figure>
-    <img src="figures/polygons.png"  width="900" height="400" >
-</figure>
-
-## Multiple representations
-
-<p align="center">
-<img src="figures/multiple_representations.png" width="50%" height="50%" />
-</p>
-
-## Spaghetti
-
-<p align="center">
-<img src="figures/spaghetti_et_al.png" width="70%" height="70%" />
-</p>
-
-## Topology
-
-<p align="center">
-<img src="figures/topology_tables.png" width="70%" height="70%" />
-</p>
-
-# Raster data model 
-
-## Gridded structure
-
-<figure>
-    <img src="figures/raster_model.png"  width="600" height="500" >
-</figure>
-
-## Cell size
-
-<p align="center">
-<img src="figures/cell_size.png" width="85%" height="85%" />
-</p>
-
-## Cell asignment
-
-<p align="center">
-<img src="figures/cell_assignment.png" width="55%" height="55%" />
-</p>
-
-# Raster vs Vector
-
-<figure>
-    <img src="figures/raster_vector_comparison.png"  width="700" height="500" >
-</figure>
-
-#  Vector vs Raster
-
-How are roads portrayed in vector and raster?
-
-Give two examples when it would be best to use vector data.
-
-Give two examples when it would be best to use raster data.
-
-# A simple exercise
-
-Vector to  raster
-<p align="center">
-<img src="figures/raster2vector.png" width="80%" height="80%" />
-</p>
-
-Is it possible convert from raster to vector?
-
-# To do before next week
-
-## Read [this document](https://drive.google.com/file/d/14xeh1vla7unSIxlh7DCbBzc7QlujyDh0/view?usp=drive_link) 
-
-It deals with planar and spherical coordinate systems (Bolstad, 2019)
-
-Then, answer this week questions
+<font size="6">Plantear inquietudes en el chat</font>

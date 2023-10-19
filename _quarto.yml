@@ -6,6 +6,7 @@ project:
     - "index.qmd"
     - "2023/*.qmd"
     - "2023/sesiones/sesion01/*.qmd"
+    - "2023/sesiones/sesion02/*.qmd"
 
 
 website:
@@ -46,6 +47,15 @@ website:
              - href: 2023/sesiones/sesion01/page.qmd
                text: 👨‍🏫 Teoría
              - href: 2023/sesiones/sesion01/lab.qmd
+               text: 💻 Práctica
+            #  - href: 2023/weeks/week01/appendix.qmd
+            #    text: 🔖 Appendix
+         - href: 2023/sesiones/sesion02/page.qmd
+           text: Sesion 02
+           contents:
+             - href: 2023/sesiones/sesion02/page.qmd
+               text: 👨‍🏫 Teoría
+             - href: 2023/sesiones/sesion02/lab.qmd
                text: 💻 Práctica
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
