@@ -1,171 +1,38 @@
 [
   {
-    "objectID": "2023/sesiones/sesion01/slides2.html#your-lecturer",
-    "href": "2023/sesiones/sesion01/slides2.html#your-lecturer",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Profesor Universidad Nacional de Colombia Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nMachine and Deep learning  GIS & Earth Observation  Territorial sustainability"
+    "objectID": "2023/sesiones/sesion02/slides.html#presentación",
+    "href": "2023/sesiones/sesion02/slides.html#presentación",
+    "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
+    "section": "Presentación",
+    "text": "Presentación\nEnlace"
   },
   {
-    "objectID": "2023/sesiones/sesion01/slides2.html#students",
-    "href": "2023/sesiones/sesion01/slides2.html#students",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Students",
-    "text": "Students\nPlease introduce yourselves\n:::"
+    "objectID": "2023/sesiones/sesion02/slides.html#qué-son-composiciones-a-color",
+    "href": "2023/sesiones/sesion02/slides.html#qué-son-composiciones-a-color",
+    "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
+    "section": "Qué son composiciones a color?",
+    "text": "Qué son composiciones a color?\nColour composite"
   },
   {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-1",
-    "href": "2023/sesiones/sesion01/slides2.html#question-1",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 1",
-    "text": "Question 1\nThe radius of Earth is … km"
+    "objectID": "2023/sesiones/sesion02/slides.html#qué-son-indices-de-vegetación",
+    "href": "2023/sesiones/sesion02/slides.html#qué-son-indices-de-vegetación",
+    "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
+    "section": "Qué son indices de vegetación?",
+    "text": "Qué son indices de vegetación?\nVegetation indices"
   },
   {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-2",
-    "href": "2023/sesiones/sesion01/slides2.html#question-2",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 2",
-    "text": "Question 2\nThe area of Colombia is … km2"
+    "objectID": "2023/sesiones/sesion02/slides.html#sesión-de-preguntas",
+    "href": "2023/sesiones/sesion02/slides.html#sesión-de-preguntas",
+    "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
+    "section": "Sesión de preguntas",
+    "text": "Sesión de preguntas\nPlantear inquietudes en el chat\n\n\n\nRIO – PERCEPCION REMOTA"
   },
   {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-3",
-    "href": "2023/sesiones/sesion01/slides2.html#question-3",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 3",
-    "text": "Question 3\nThe area of Bogota municipality is … km2"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-4",
-    "href": "2023/sesiones/sesion01/slides2.html#question-4",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 4",
-    "text": "Question 4\nThe UNAL Bogota campus is about … hectares"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-5",
-    "href": "2023/sesiones/sesion01/slides2.html#question-5",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 5",
-    "text": "Question 5\nHow many hectares is 1 km by 1 km"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#question-6",
-    "href": "2023/sesiones/sesion01/slides2.html#question-6",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Question 6",
-    "text": "Question 6\nThe distance between Sun and Earth is … km"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#basic-questions",
-    "href": "2023/sesiones/sesion01/slides2.html#basic-questions",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Basic questions",
-    "text": "Basic questions\nTell us about your computational experience & skills"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#reading-doing-and-writing",
-    "href": "2023/sesiones/sesion01/slides2.html#reading-doing-and-writing",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Reading, doing and writing",
-    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#read-this-document-and-take-notes",
-    "href": "2023/sesiones/sesion01/slides2.html#read-this-document-and-take-notes",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Read this document and take notes",
-    "text": "Read this document and take notes\n\nSpatial data models (Bolstad, 2019)"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#watch-this-video-and-take-notes",
-    "href": "2023/sesiones/sesion01/slides2.html#watch-this-video-and-take-notes",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Watch this video and take notes",
-    "text": "Watch this video and take notes\n\nWhat is geomatics?\nWhich are its disciplines?\n\nLength: 12:34\nSpeaker: Amol Deshmukh"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/slides2.html#supplementary-lecture",
-    "href": "2023/sesiones/sesion01/slides2.html#supplementary-lecture",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Supplementary lecture",
-    "text": "Supplementary lecture\nYou can find a good introduction to geomatics in this document\nChapter 1 from Gomarasca, M. Basics of Geomatics. Springer, 2009."
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/page.html",
-    "href": "2023/sesiones/sesion01/page.html",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "objectID": "2023/sesiones/sesion02/lab.html",
+    "href": "2023/sesiones/sesion02/lab.html",
+    "title": "🗓️ Sesion 2 - Práctica con Google Earth Engine",
     "section": "",
-    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
-    "href": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "",
-    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
-    "href": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "✍️ Ejercicios prácticos",
-    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
-    "href": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📚 Lecturas recomendadas",
-    "text": "📚 Lecturas recomendadas\n\nEn las diapositivas se indican las referencias usadas."
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/page.html#comunicación",
-    "href": "2023/sesiones/sesion01/page.html#comunicación",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📟 Comunicación",
-    "text": "📟 Comunicación\n\nDurante la sesión práctica, utilice el chat para comunicarse con el monitor."
-  },
-  {
-    "objectID": "2023/syllabus.html",
-    "href": "2023/syllabus.html",
-    "title": "RIO - PERCEPCION REMOTA BASICA",
-    "section": "",
-    "text": "DESCRIPCIÓN DEL CURSO:\n\n\n\n\n\n\n\n\nEntender los fundamentos teóricos y conceptuales de la teledetección\nRealizar procesos prácticos usando herramientales computacionales\nDesarrollar capacidades analíticas para entender el potencial de la teledetección\n\n\n\n\n\nBuscar, recopilar y visualizar imágenes satelitales.\nEntender las características y los niveles de procesamiento de las imágenes.\nObtener e interpretar índices espectrales a partir de las imágenes.\nCapacidad para acceder y usar plataformas computacionales en la nube\n\n\n\n\n\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos a cargo de los asistentes\n\n\n\n\n\nGoogle Earth Engine (GEE)"
-  },
-  {
-    "objectID": "2023/syllabus.html#contenido-detallado",
-    "href": "2023/syllabus.html#contenido-detallado",
-    "title": "RIO - PERCEPCION REMOTA BASICA",
-    "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nSesión 1 – 6 de octubre\n\n\n\n\n\nClase T1:\n\nIntroducción a la teledetección\nFormación de imágenes\nPlataformas aéreas y satelitales\n\nClase P1:\n\nPrimeros pasos con GEE\nInterfaz de usuario\nImportación de datos\n\n\n\n\n\n\n\n\n\n\nSesión 2 – 13 de octubre\n\n\n\n\n\nClase T2:\n\nFundamentos físicos\nEl proceso de percepción remota\n\nClase P2:\n\nTipos de objetos\nee.Geometry\nee.FeatureCollection\n\n\n\n\n\n\n\n\n\n\nSesión 3 – 20 de octubre\n\n\n\n\n\nClase T3:\n\nRealces y transformaciones\nIndices espectrales\n\nClase P3:\n\nee.Image\nee.ImageCollectiom\nFunciones y métodos comunes\n\n\n\n\n\n\n\n\n\n\nSesión 4 – 27 de octubre\n\n\n\n\n\nClase T4:\n\nMétodos de clasificación\nEvaluación de exactitud\n\nClase P4:\n\nClasificación supervisada\nEvaluación de exactitud"
-  },
-  {
-    "objectID": "2023/syllabus.html#bibliografia",
-    "href": "2023/syllabus.html#bibliografia",
-    "title": "RIO - PERCEPCION REMOTA BASICA",
-    "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nJensen, J.R. Introductory Digital Image Processing [4th edition], Pearson, 2016.\nSolórzano, J.V. y Perilla, G.A. Cómo usar Google Earth Engine y no fallar en el intento, UNAM - Instituto Humboldt, 2022.\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "RIO - PERCEPCION REMOTA",
-    "section": "",
-    "text": "📑 Resumen del curso\nEnfoque: Entender y aplicar conceptos, métodos y técnicas de teletección.\nMetodología: Aprender haciendo\n\nSeleccione Año:\n 2023"
-  },
-  {
-    "objectID": "2023/index.html",
-    "href": "2023/index.html",
-    "title": "PERCEPCION REMOTA",
-    "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(06/10/2023)\n\n🗓️ El material de la sesión 01 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
-  },
-  {
-    "objectID": "2023/sesiones/sesion01/lab.html",
-    "href": "2023/sesiones/sesion01/lab.html",
-    "title": "🗓️ Sesion 1 - Primeros pasos con Google Earth Engine",
-    "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 1 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Cómo acceder a Google Earth Engine\n\n\n\n\n\nAcceso a GEE y Nociones de JavaScript\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Para qué es útil Google Earth Engine\n\n\n\n\n\nIntroducción a GEE\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Cómo escribir código en Google Earth Engine\n\n\n\n\n\nEditor de código"
+    "text": "Los ejercicios prácticos de la Sesión 2 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Composiciones a color\n\n\n\n\n\nComposiciones a color\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Indices espectrales - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Indices espectrales - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2"
   },
   {
     "objectID": "2023/sesiones/sesion01/slides.html#instructor",
@@ -418,5 +285,201 @@
     "title": "🗓️ Sesión 01 Conceptos básicos",
     "section": "Lectura complementaria",
     "text": "Lectura complementaria\nUna excelente introducción a teledetección se encuentra en este enlace\nThe Canada Centre for Mapping and Earth Observation (2022)\n\n\n\nRIO – PERCEPCION REMOTA"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/lab.html",
+    "href": "2023/sesiones/sesion01/lab.html",
+    "title": "🗓️ Sesion 1 - Primeros pasos con Google Earth Engine",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Sesión 1 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Cómo acceder a Google Earth Engine\n\n\n\n\n\nAcceso a GEE y Nociones de JavaScript\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Para qué es útil Google Earth Engine\n\n\n\n\n\nIntroducción a GEE\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Cómo escribir código en Google Earth Engine\n\n\n\n\n\nEditor de código"
+  },
+  {
+    "objectID": "2023/index.html",
+    "href": "2023/index.html",
+    "title": "PERCEPCION REMOTA",
+    "section": "",
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(19/10/2023)\n\n🗓️ El material de la sesión 02 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RIO - PERCEPCION REMOTA",
+    "section": "",
+    "text": "📑 Resumen del curso\nEnfoque: Entender y aplicar conceptos, métodos y técnicas de teletección.\nMetodología: Aprender haciendo\n\nSeleccione Año:\n 2023"
+  },
+  {
+    "objectID": "2023/syllabus.html",
+    "href": "2023/syllabus.html",
+    "title": "RIO - PERCEPCION REMOTA BASICA",
+    "section": "",
+    "text": "DESCRIPCIÓN DEL CURSO:\n\n\n\n\n\n\n\n\nEntender los fundamentos teóricos y conceptuales de la teledetección\nRealizar procesos prácticos usando herramientales computacionales\nDesarrollar capacidades analíticas para entender el potencial de la teledetección\n\n\n\n\n\nBuscar, recopilar y visualizar imágenes satelitales.\nEntender las características y los niveles de procesamiento de las imágenes.\nObtener e interpretar índices espectrales a partir de las imágenes.\nCapacidad para acceder y usar plataformas computacionales en la nube\n\n\n\n\n\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos a cargo de los asistentes\n\n\n\n\n\nGoogle Earth Engine (GEE)"
+  },
+  {
+    "objectID": "2023/syllabus.html#contenido-detallado",
+    "href": "2023/syllabus.html#contenido-detallado",
+    "title": "RIO - PERCEPCION REMOTA BASICA",
+    "section": "CONTENIDO DETALLADO",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nSesión 1 – 6 de octubre\n\n\n\n\n\nClase T1:\n\nIntroducción a la teledetección\nFormación de imágenes\nPlataformas aéreas y satelitales\n\nClase P1:\n\nPrimeros pasos con GEE\nInterfaz de usuario\nImportación de datos\n\n\n\n\n\n\n\n\n\n\nSesión 2 – 13 de octubre\n\n\n\n\n\nClase T2:\n\nFundamentos físicos\nEl proceso de percepción remota\n\nClase P2:\n\nTipos de objetos\nee.Geometry\nee.FeatureCollection\n\n\n\n\n\n\n\n\n\n\nSesión 3 – 20 de octubre\n\n\n\n\n\nClase T3:\n\nRealces y transformaciones\nIndices espectrales\n\nClase P3:\n\nee.Image\nee.ImageCollectiom\nFunciones y métodos comunes\n\n\n\n\n\n\n\n\n\n\nSesión 4 – 27 de octubre\n\n\n\n\n\nClase T4:\n\nMétodos de clasificación\nEvaluación de exactitud\n\nClase P4:\n\nClasificación supervisada\nEvaluación de exactitud"
+  },
+  {
+    "objectID": "2023/syllabus.html#bibliografia",
+    "href": "2023/syllabus.html#bibliografia",
+    "title": "RIO - PERCEPCION REMOTA BASICA",
+    "section": "BIBLIOGRAFIA",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nJensen, J.R. Introductory Digital Image Processing [4th edition], Pearson, 2016.\nSolórzano, J.V. y Perilla, G.A. Cómo usar Google Earth Engine y no fallar en el intento, UNAM - Instituto Humboldt, 2022.\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016."
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/page.html",
+    "href": "2023/sesiones/sesion01/page.html",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "",
+    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
+    "href": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "",
+    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
+    "href": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "✍️ Ejercicios prácticos",
+    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
+    "href": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "📚 Lecturas recomendadas",
+    "text": "📚 Lecturas recomendadas\n\nEn las diapositivas se indican las referencias usadas."
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/page.html#comunicación",
+    "href": "2023/sesiones/sesion01/page.html#comunicación",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "📟 Comunicación",
+    "text": "📟 Comunicación\n\nDurante la sesión práctica, utilice el chat para comunicarse con el monitor."
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#your-lecturer",
+    "href": "2023/sesiones/sesion01/slides2.html#your-lecturer",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Your lecturer",
+    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Profesor Universidad Nacional de Colombia Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nMachine and Deep learning  GIS & Earth Observation  Territorial sustainability"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#students",
+    "href": "2023/sesiones/sesion01/slides2.html#students",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Students",
+    "text": "Students\nPlease introduce yourselves\n:::"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-1",
+    "href": "2023/sesiones/sesion01/slides2.html#question-1",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 1",
+    "text": "Question 1\nThe radius of Earth is … km"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-2",
+    "href": "2023/sesiones/sesion01/slides2.html#question-2",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 2",
+    "text": "Question 2\nThe area of Colombia is … km2"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-3",
+    "href": "2023/sesiones/sesion01/slides2.html#question-3",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 3",
+    "text": "Question 3\nThe area of Bogota municipality is … km2"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-4",
+    "href": "2023/sesiones/sesion01/slides2.html#question-4",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 4",
+    "text": "Question 4\nThe UNAL Bogota campus is about … hectares"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-5",
+    "href": "2023/sesiones/sesion01/slides2.html#question-5",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 5",
+    "text": "Question 5\nHow many hectares is 1 km by 1 km"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#question-6",
+    "href": "2023/sesiones/sesion01/slides2.html#question-6",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Question 6",
+    "text": "Question 6\nThe distance between Sun and Earth is … km"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#basic-questions",
+    "href": "2023/sesiones/sesion01/slides2.html#basic-questions",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Basic questions",
+    "text": "Basic questions\nTell us about your computational experience & skills"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#reading-doing-and-writing",
+    "href": "2023/sesiones/sesion01/slides2.html#reading-doing-and-writing",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Reading, doing and writing",
+    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#read-this-document-and-take-notes",
+    "href": "2023/sesiones/sesion01/slides2.html#read-this-document-and-take-notes",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Read this document and take notes",
+    "text": "Read this document and take notes\n\nSpatial data models (Bolstad, 2019)"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#watch-this-video-and-take-notes",
+    "href": "2023/sesiones/sesion01/slides2.html#watch-this-video-and-take-notes",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Watch this video and take notes",
+    "text": "Watch this video and take notes\n\nWhat is geomatics?\nWhich are its disciplines?\n\nLength: 12:34\nSpeaker: Amol Deshmukh"
+  },
+  {
+    "objectID": "2023/sesiones/sesion01/slides2.html#supplementary-lecture",
+    "href": "2023/sesiones/sesion01/slides2.html#supplementary-lecture",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Supplementary lecture",
+    "text": "Supplementary lecture\nYou can find a good introduction to geomatics in this document\nChapter 1 from Gomarasca, M. Basics of Geomatics. Springer, 2009."
+  },
+  {
+    "objectID": "2023/sesiones/sesion02/page.html",
+    "href": "2023/sesiones/sesion02/page.html",
+    "title": "🗓️ Week 02 - Color compositions & Spectral indices",
+    "section": "",
+    "text": "🎥"
+  },
+  {
+    "objectID": "2023/sesiones/sesion02/page.html#teoría",
+    "href": "2023/sesiones/sesion02/page.html#teoría",
+    "title": "🗓️ Week 02 - Color compositions & Spectral indices",
+    "section": "",
+    "text": "🎥"
+  },
+  {
+    "objectID": "2023/sesiones/sesion02/page.html#ejercicios-prácticos",
+    "href": "2023/sesiones/sesion02/page.html#ejercicios-prácticos",
+    "title": "🗓️ Week 02 - Color compositions & Spectral indices",
+    "section": "✍️ Ejercicios prácticos",
+    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧"
+  },
+  {
+    "objectID": "2023/sesiones/sesion02/page.html#comunicación",
+    "href": "2023/sesiones/sesion02/page.html#comunicación",
+    "title": "🗓️ Week 02 - Color compositions & Spectral indices",
+    "section": "📟 Comunicación",
+    "text": "📟 Comunicación\n\nDurante la sesión práctica, si requiere ayuda comuníquese con el monitor."
   }
 ]
