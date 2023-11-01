@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "2023/sesiones/sesion03/page.html",
+    "href": "2023/sesiones/sesion03/page.html",
+    "title": "🗓️ Week 03 - Indices de vegetación",
+    "section": "",
+    "text": "Ejercicios prácticos:\nCalcular un índice de vegetación usando Landsat-8\nCalcular tres índices de vegetación usando Sentinel-2\nObtener series temporales de los tres índices de vegetación\n🚧 Haga clic aquí 🚧"
+  },
+  {
     "objectID": "2023/sesiones/sesion02/slides.html#presentación",
     "href": "2023/sesiones/sesion02/slides.html#presentación",
     "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
@@ -296,9 +303,9 @@
   {
     "objectID": "2023/index.html",
     "href": "2023/index.html",
-    "title": "PERCEPCION REMOTA",
+    "title": "PERCEPCION REMOTA RIO",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(19/10/2023)\n\n🗓️ El material de la sesión 02 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(02/11/2023)\n\n🗓️ El material de la sesión 03 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
   },
   {
     "objectID": "index.html",
@@ -481,5 +488,12 @@
     "title": "🗓️ Week 02 - Color compositions & Spectral indices",
     "section": "📟 Comunicación",
     "text": "📟 Comunicación\n\nDurante la sesión práctica, si requiere ayuda comuníquese con el monitor."
+  },
+  {
+    "objectID": "2023/sesiones/sesion03/lab.html",
+    "href": "2023/sesiones/sesion03/lab.html",
+    "title": "🗓️ Sesion 3 - Práctica con Google Earth Engine",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Sesión 3 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2"
   }
 ]
