@@ -1,51 +1,19 @@
 ---
-title: "🗓️ Week 03 - Coordinate systems  and map projections"
+title: "🗓️ Week 03 - Indices de vegetación"
 ---
 
-In this week, we will cover the following topics:
 
-**Theoretical topics**:
+**Ejercicios prácticos**:
 
-- the role of geodesy as a basis for earth datums
-- how to calculate distances on a spherical earth
-- the basic types of map projection
-- the properties of common map projections
-- the terminology of common coordinate systems
-- how to use  a GIS to convert between coordinate systems 
+Calcular un índice de vegetación usando Landsat-8
 
-**Practical exercises**:
+Calcular tres índices de vegetación usando Sentinel-2 
 
-Review coordinate systems's metadata 
+Obtener series temporales de los tres índices de vegetación
 
-Reproject vector and raster data
 
-## 👨‍🏫 Lecture Slides 
+🚧 Haga clic [aquí](lab.qmd)  🚧
 
-You can find the slides [here](https://docs.google.com/presentation/d/1teYd09bo9BH2CK0b3G9Z77jnxcDjmTJ-/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
 
-🎥 
-
-## 📚 Recommended Reading 
-
-Read [this document](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718) and take notes
-
-## ✍️ Coursework
-
-🚧 In your  notebook,  answer the following questions 🚧
-
-### Part 1
-::: {.callout-important collapse=true}
-1. What are the geometric parameters associated to the ellipsoid GRS 80?
-2. What is the geoid?
-3. What are the most important characteristics of the geoid?
-:::
-
-### Part 2
-::: {.callout-important collapse=true}
-4. What is a datum?
-5. What is the datum MAGNA-SIRGAS?
-6. Describe  the Colombian map projection for  1:25.000 maps
-
-:::
 
 

@@ -1,0 +1,36 @@
+---
+title: "🗓️ Sesion 3 - Práctica con Google Earth Engine"
+---
+
+Los ejercicios prácticos de la **Sesión 3** comprenden tres bloques:
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 1. NDVI - Landsat 8
+
+[Series de tiempo NDVI - L8](https://ials.github.io/GEE/04-L8-indices/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 2. NDVI - Sentinel 2
+
+[Series de tiempo NDVI -S2](https://ials.github.io/GEE/05-S2-indices/index.html)
+
+:::
+
+::: {.callout-important collapse=true}
+
+## 👨‍🏫 3. NDVI, GNDVI, EVI2 - Sentinel 2
+
+[Series de tres indices -S2](https://ials.github.io/GEE/06-tres-indices/index.html)
+
+:::
+
+
+
+
+
+
+

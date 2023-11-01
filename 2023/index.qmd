@@ -1,5 +1,5 @@
 ---
-title: " PERCEPCION REMOTA"
+title: " PERCEPCION REMOTA RIO"
 subtitle: "Año: 2023"
 format: html
 ---
@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(19/10/2023)
+(02/11/2023)
 
-- [🗓️ El material de la sesión 02](/2023/sesiones/sesion02/page.qmd) está disponible!
+- [🗓️ El material de la sesión 03](/2023/sesiones/sesion03/page.qmd) está disponible!
 
 :::
 
