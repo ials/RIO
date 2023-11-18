@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "2023/sesiones/sesion04/page.html",
+    "href": "2023/sesiones/sesion04/page.html",
+    "title": "🗓️ Week 04 - Máscara de nubes & Filtros temporales",
+    "section": "",
+    "text": "Ejercicios prácticos:\nEnmascarar nubes en imágenes Sentinel-2\nReconstruir una serie multitemporal de NDVI\nObtener otros índices de vegetación\n🚧 Haga clic aquí 🚧"
+  },
+  {
     "objectID": "2023/sesiones/sesion03/page.html",
     "href": "2023/sesiones/sesion03/page.html",
     "title": "🗓️ Week 03 - Indices de vegetación",
@@ -303,9 +310,9 @@
   {
     "objectID": "2023/index.html",
     "href": "2023/index.html",
-    "title": "PERCEPCION REMOTA RIO",
+    "title": "RIO - PERCEPCION REMOTA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(02/11/2023)\n\n🗓️ El material de la sesión 03 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(18/11/2023)\n\n🗓️ El material de la sesión 04 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
   },
   {
     "objectID": "index.html",
@@ -495,5 +502,12 @@
     "title": "🗓️ Sesion 3 - Práctica con Google Earth Engine",
     "section": "",
     "text": "Los ejercicios prácticos de la Sesión 3 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2"
+  },
+  {
+    "objectID": "2023/sesiones/sesion04/lab.html",
+    "href": "2023/sesiones/sesion04/lab.html",
+    "title": "🗓️ Sesion 4 - Práctica con Google Earth Engine and QGIS",
+    "section": "",
+    "text": "Los ejercicios prácticos de la Sesión 4 comprenden dos bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nMáscara de nubes\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nReconstruccion de series temporales\n\n\n\n\n\n\n\n\n\n👨‍🏫 Opcional\n\n\n\n\n\nEnlace a script en GEE\nOtros indices de vegetación"
   }
 ]
