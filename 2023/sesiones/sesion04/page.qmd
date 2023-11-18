@@ -1,46 +1,18 @@
 ---
-title: "🗓️ Week 04 - Fundamentals of Cartography"
+title: "🗓️ Week 04 - Máscara de nubes & Filtros temporales"
 ---
 
-In this week, we will cover the following topics:
 
-**Theoretical topics**:
+**Ejercicios prácticos**:
 
-## 👨‍🏫 Lecture Slides 
+Enmascarar nubes en imágenes Sentinel-2
 
-You can find the slides [here](https://drive.google.com/file/d/1lSJ7OYnLE32xoRL_LRu_mv0mCV9hKgKA/view?usp=sharing)
+Reconstruir una serie multitemporal  de NDVI 
 
-
-## **Practical exercises**:
-
-Students make two maps for Department X:
-
-#### 1. A political map displaying municipalities and urban centers 
-#### 2. A physical map displaying elevation, roads, hidrography, and urban centers
-
-Guide:
-[How to make a map of municipalities in QGIS](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view)
-
-**Make sure you bring the two maps, printed in color, to the classroom on 6th September**
-
-🎥 
-
-## 📚 Recommended Reading 
-
-Read [Cartography: an Introduction](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf) and take notes
-
-## ✍️ Coursework
-
-🚧 In your  notebook,  answer the following questions 🚧
-
-### Cartography
-::: {.callout-important collapse=true}
-1. What is the geographic area covered by one IGAC map sheet at 1:100000 scale?
-2. At 1:25000 scale map, how many cm2 represent 100 ha?
-3. At 1:5000 scale map, 10 cm2 equals how many hectares?
-:::
+Obtener otros índices de vegetación
 
 
+🚧 Haga clic [aquí](lab.qmd)  🚧
 
 
 
