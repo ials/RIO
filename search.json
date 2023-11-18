@@ -508,6 +508,6 @@
     "href": "2023/sesiones/sesion04/lab.html",
     "title": "🗓️ Sesion 4 - Práctica con Google Earth Engine and QGIS",
     "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 4 comprenden dos bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nMáscara de nubes\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nReconstruccion de series temporales\n\n\n\n\n\n\n\n\n\n👨‍🏫 Opcional\n\n\n\n\n\nEnlace a script en GEE\nOtros indices de vegetación"
+    "text": "Los ejercicios prácticos de la Sesión 4 comprenden dos bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Nubes\n\n\n\n\n\nMáscara de nubes\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Reconstruccion\n\n\n\n\n\nReconstruccion de series temporales\n\n\n\n\n\n\n\n\n\n👨‍🏫 Opcional\n\n\n\n\n\nEnlace a script en GEE\nOtros indices de vegetación"
   }
 ]
