@@ -6,7 +6,7 @@ Los ejercicios prácticos de la **Sesión 4** comprenden dos bloques:
 
 ::: {.callout-important collapse=true}
 
-## 👨‍🏫 1. NDVI - Landsat 8
+## 👨‍🏫 1. NDVI - Nubes
 
 [Máscara de nubes](https://ials.github.io/GEE/08-NDVI-sin-nubes/index.html)
 
@@ -14,7 +14,7 @@ Los ejercicios prácticos de la **Sesión 4** comprenden dos bloques:
 
 ::: {.callout-important collapse=true}
 
-## 👨‍🏫 2. NDVI - Sentinel 2
+## 👨‍🏫 2. NDVI - Reconstruccion
 
 [Reconstruccion de series temporales](https://ials.github.io/GEE/09-Suavizar-NDVI/index.html)
 
