@@ -4,14 +4,22 @@
     "href": "2023/sesiones/sesion04/page.html",
     "title": "🗓️ Week 04 - Máscara de nubes & Filtros temporales",
     "section": "",
-    "text": "Ejercicios prácticos:\nEnmascarar nubes en imágenes Sentinel-2\nReconstruir una serie multitemporal de NDVI\nObtener otros índices de vegetación\n🚧 Haga clic aquí 🚧"
+    "text": "Ejercicios prácticos:\nEnmascarar nubes en imágenes Sentinel-2\nReconstruir una serie multitemporal de NDVI\nObtener otros índices de vegetación\n🚧 Haga clic aquí 🚧",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 04"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion03/page.html",
     "href": "2023/sesiones/sesion03/page.html",
     "title": "🗓️ Week 03 - Indices de vegetación",
     "section": "",
-    "text": "Ejercicios prácticos:\nCalcular un índice de vegetación usando Landsat-8\nCalcular tres índices de vegetación usando Sentinel-2\nObtener series temporales de los tres índices de vegetación\n🚧 Haga clic aquí 🚧"
+    "text": "Ejercicios prácticos:\nCalcular un índice de vegetación usando Landsat-8\nCalcular tres índices de vegetación usando Sentinel-2\nObtener series temporales de los tres índices de vegetación\n🚧 Haga clic aquí 🚧",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 03"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion02/slides.html#presentación",
@@ -39,14 +47,19 @@
     "href": "2023/sesiones/sesion02/slides.html#sesión-de-preguntas",
     "title": "🗓️ Sesión 02 Composiciones a color & Indices de vegetación",
     "section": "Sesión de preguntas",
-    "text": "Sesión de preguntas\nPlantear inquietudes en el chat\n\n\n\nRIO – PERCEPCION REMOTA"
+    "text": "Sesión de preguntas\nPlantear inquietudes en el chat\n\n\n\n\nRIO – PERCEPCION REMOTA"
   },
   {
     "objectID": "2023/sesiones/sesion02/lab.html",
     "href": "2023/sesiones/sesion02/lab.html",
     "title": "🗓️ Sesion 2 - Práctica con Google Earth Engine",
     "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 2 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Composiciones a color\n\n\n\n\n\nComposiciones a color\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Indices espectrales - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Indices espectrales - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2"
+    "text": "Los ejercicios prácticos de la Sesión 2 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Composiciones a color\n\n\n\n\n\nComposiciones a color\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Indices espectrales - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Indices espectrales - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 02",
+      "💻 Práctica"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/slides.html#instructor",
@@ -298,21 +311,29 @@
     "href": "2023/sesiones/sesion01/slides.html#lectura-complementaria",
     "title": "🗓️ Sesión 01 Conceptos básicos",
     "section": "Lectura complementaria",
-    "text": "Lectura complementaria\nUna excelente introducción a teledetección se encuentra en este enlace\nThe Canada Centre for Mapping and Earth Observation (2022)\n\n\n\nRIO – PERCEPCION REMOTA"
+    "text": "Lectura complementaria\nUna excelente introducción a teledetección se encuentra en este enlace\nThe Canada Centre for Mapping and Earth Observation (2022)\n\n\n\n\nRIO – PERCEPCION REMOTA"
   },
   {
     "objectID": "2023/sesiones/sesion01/lab.html",
     "href": "2023/sesiones/sesion01/lab.html",
     "title": "🗓️ Sesion 1 - Primeros pasos con Google Earth Engine",
     "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 1 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Cómo acceder a Google Earth Engine\n\n\n\n\n\nAcceso a GEE y Nociones de JavaScript\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Para qué es útil Google Earth Engine\n\n\n\n\n\nIntroducción a GEE\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Cómo escribir código en Google Earth Engine\n\n\n\n\n\nEditor de código"
+    "text": "Los ejercicios prácticos de la Sesión 1 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. Cómo acceder a Google Earth Engine\n\n\n\n\n\nAcceso a GEE y Nociones de JavaScript\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. Para qué es útil Google Earth Engine\n\n\n\n\n\nIntroducción a GEE\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. Cómo escribir código en Google Earth Engine\n\n\n\n\n\nEditor de código",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01",
+      "💻 Práctica"
+    ]
   },
   {
     "objectID": "2023/index.html",
     "href": "2023/index.html",
     "title": "RIO - PERCEPCION REMOTA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(18/11/2023)\n\n🗓️ El material de la sesión 04 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Revise el contenido del curso aquí!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(18/11/2023)\n\n🗓️ El material de la sesión 04 está disponible!\n\n\n\n\n\n🧑🏻‍🏫 Nuestro Equipo\n\nInstructorMonitor\n\n\n\nIVAN LIZARAZO  PROFESOR  UNAL 📧 ializarazos@unal.edu.co ( at )\n\n\n\nRICARDO CUITIVA  DESARROLLADOR  STGEO 📧 ricardo.cuitiva@stgeo.co ( at )\n\n\n\n\n\n📍 Fechas - Lugar\nViernes de Octubre 2023 9am-12am - 1pm-3pm",
+    "crumbs": [
+      "🏠 Home"
+    ]
   },
   {
     "objectID": "index.html",
@@ -326,56 +347,85 @@
     "href": "2023/syllabus.html",
     "title": "RIO - PERCEPCION REMOTA BASICA",
     "section": "",
-    "text": "DESCRIPCIÓN DEL CURSO:\n\n\n\n\n\n\n\n\nEntender los fundamentos teóricos y conceptuales de la teledetección\nRealizar procesos prácticos usando herramientales computacionales\nDesarrollar capacidades analíticas para entender el potencial de la teledetección\n\n\n\n\n\nBuscar, recopilar y visualizar imágenes satelitales.\nEntender las características y los niveles de procesamiento de las imágenes.\nObtener e interpretar índices espectrales a partir de las imágenes.\nCapacidad para acceder y usar plataformas computacionales en la nube\n\n\n\n\n\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos a cargo de los asistentes\n\n\n\n\n\nGoogle Earth Engine (GEE)"
+    "text": "DESCRIPCIÓN DEL CURSO:\n\n\n\n\n\n\n\n\nEntender los fundamentos teóricos y conceptuales de la teledetección\nRealizar procesos prácticos usando herramientales computacionales\nDesarrollar capacidades analíticas para entender el potencial de la teledetección\n\n\n\n\n\nBuscar, recopilar y visualizar imágenes satelitales.\nEntender las características y los niveles de procesamiento de las imágenes.\nObtener e interpretar índices espectrales a partir de las imágenes.\nCapacidad para acceder y usar plataformas computacionales en la nube\n\n\n\n\n\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos a cargo de los asistentes\n\n\n\n\n\nGoogle Earth Engine (GEE)",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2023/syllabus.html#contenido-detallado",
     "href": "2023/syllabus.html#contenido-detallado",
     "title": "RIO - PERCEPCION REMOTA BASICA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nSesión 1 – 6 de octubre\n\n\n\n\n\nClase T1:\n\nIntroducción a la teledetección\nFormación de imágenes\nPlataformas aéreas y satelitales\n\nClase P1:\n\nPrimeros pasos con GEE\nInterfaz de usuario\nImportación de datos\n\n\n\n\n\n\n\n\n\n\nSesión 2 – 13 de octubre\n\n\n\n\n\nClase T2:\n\nFundamentos físicos\nEl proceso de percepción remota\n\nClase P2:\n\nTipos de objetos\nee.Geometry\nee.FeatureCollection\n\n\n\n\n\n\n\n\n\n\nSesión 3 – 20 de octubre\n\n\n\n\n\nClase T3:\n\nRealces y transformaciones\nIndices espectrales\n\nClase P3:\n\nee.Image\nee.ImageCollectiom\nFunciones y métodos comunes\n\n\n\n\n\n\n\n\n\n\nSesión 4 – 27 de octubre\n\n\n\n\n\nClase T4:\n\nMétodos de clasificación\nEvaluación de exactitud\n\nClase P4:\n\nClasificación supervisada\nEvaluación de exactitud"
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nSesión 1 – 6 de octubre\n\n\n\n\n\nClase T1:\n\nIntroducción a la teledetección\nFormación de imágenes\nPlataformas aéreas y satelitales\n\nClase P1:\n\nPrimeros pasos con GEE\nInterfaz de usuario\nImportación de datos\n\n\n\n\n\n\n\n\n\n\nSesión 2 – 13 de octubre\n\n\n\n\n\nClase T2:\n\nFundamentos físicos\nEl proceso de percepción remota\n\nClase P2:\n\nTipos de objetos\nee.Geometry\nee.FeatureCollection\n\n\n\n\n\n\n\n\n\n\nSesión 3 – 20 de octubre\n\n\n\n\n\nClase T3:\n\nRealces y transformaciones\nIndices espectrales\n\nClase P3:\n\nee.Image\nee.ImageCollectiom\nFunciones y métodos comunes\n\n\n\n\n\n\n\n\n\n\nSesión 4 – 27 de octubre\n\n\n\n\n\nClase T4:\n\nMétodos de clasificación\nEvaluación de exactitud\n\nClase P4:\n\nClasificación supervisada\nEvaluación de exactitud",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2023/syllabus.html#bibliografia",
     "href": "2023/syllabus.html#bibliografia",
     "title": "RIO - PERCEPCION REMOTA BASICA",
     "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nJensen, J.R. Introductory Digital Image Processing [4th edition], Pearson, 2016.\nSolórzano, J.V. y Perilla, G.A. Cómo usar Google Earth Engine y no fallar en el intento, UNAM - Instituto Humboldt, 2022.\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016."
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nJensen, J.R. Introductory Digital Image Processing [4th edition], Pearson, 2016.\nSolórzano, J.V. y Perilla, G.A. Cómo usar Google Earth Engine y no fallar en el intento, UNAM - Instituto Humboldt, 2022.\nWegman, M., Leutner, B., and Dech, S. Remote Sensing and GIS for Ecologists: using Open Source Software, Pelagic Publishing, 2016.",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/page.html",
     "href": "2023/sesiones/sesion01/page.html",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "",
-    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
+    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
     "href": "2023/sesiones/sesion01/page.html#conceptos-básicos-de-teledetección",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "",
-    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥"
+    "text": "Haga clic en la zona de diapositivas ó clic aquí para ver en pantalla completa. Use el teclado para navegar en las diapositivas.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
     "href": "2023/sesiones/sesion01/page.html#ejercicios-prácticos",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "✍️ Ejercicios prácticos",
-    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧"
+    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
     "href": "2023/sesiones/sesion01/page.html#lecturas-recomendadas",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "📚 Lecturas recomendadas",
-    "text": "📚 Lecturas recomendadas\n\nEn las diapositivas se indican las referencias usadas."
+    "text": "📚 Lecturas recomendadas\n\nEn las diapositivas se indican las referencias usadas.",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/page.html#comunicación",
     "href": "2023/sesiones/sesion01/page.html#comunicación",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "📟 Comunicación",
-    "text": "📟 Comunicación\n\nDurante la sesión práctica, utilice el chat para comunicarse con el monitor."
+    "text": "📟 Comunicación\n\nDurante la sesión práctica, utilice el chat para comunicarse con el monitor.",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 01"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion01/slides2.html#your-lecturer",
@@ -473,41 +523,67 @@
     "href": "2023/sesiones/sesion02/page.html",
     "title": "🗓️ Week 02 - Color compositions & Spectral indices",
     "section": "",
-    "text": "🎥"
+    "text": "🎥",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 02"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion02/page.html#teoría",
     "href": "2023/sesiones/sesion02/page.html#teoría",
     "title": "🗓️ Week 02 - Color compositions & Spectral indices",
     "section": "",
-    "text": "🎥"
+    "text": "🎥",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 02"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion02/page.html#ejercicios-prácticos",
     "href": "2023/sesiones/sesion02/page.html#ejercicios-prácticos",
     "title": "🗓️ Week 02 - Color compositions & Spectral indices",
     "section": "✍️ Ejercicios prácticos",
-    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧"
+    "text": "✍️ Ejercicios prácticos\n🚧 Haga clic aquí 🚧",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 02"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion02/page.html#comunicación",
     "href": "2023/sesiones/sesion02/page.html#comunicación",
     "title": "🗓️ Week 02 - Color compositions & Spectral indices",
     "section": "📟 Comunicación",
-    "text": "📟 Comunicación\n\nDurante la sesión práctica, si requiere ayuda comuníquese con el monitor."
+    "text": "📟 Comunicación\n\nDurante la sesión práctica, si requiere ayuda comuníquese con el monitor.",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 02"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion03/lab.html",
     "href": "2023/sesiones/sesion03/lab.html",
     "title": "🗓️ Sesion 3 - Práctica con Google Earth Engine",
     "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 3 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2"
+    "text": "Los ejercicios prácticos de la Sesión 3 comprenden tres bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Landsat 8\n\n\n\n\n\nSeries de tiempo NDVI - L8\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Sentinel 2\n\n\n\n\n\nSeries de tiempo NDVI -S2\n\n\n\n\n\n\n\n\n\n👨‍🏫 3. NDVI, GNDVI, EVI2 - Sentinel 2\n\n\n\n\n\nSeries de tres indices -S2",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 03",
+      "💻 Práctica"
+    ]
   },
   {
     "objectID": "2023/sesiones/sesion04/lab.html",
     "href": "2023/sesiones/sesion04/lab.html",
     "title": "🗓️ Sesion 4 - Práctica con Google Earth Engine and QGIS",
     "section": "",
-    "text": "Los ejercicios prácticos de la Sesión 4 comprenden dos bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Nubes\n\n\n\n\n\nMáscara de nubes\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Reconstruccion\n\n\n\n\n\nReconstruccion de series temporales\n\n\n\n\n\n\n\n\n\n👨‍🏫 Opcional\n\n\n\n\n\nEnlace a script en GEE\nOtros indices de vegetación"
+    "text": "Los ejercicios prácticos de la Sesión 4 comprenden dos bloques:\n\n\n\n\n\n\n👨‍🏫 1. NDVI - Nubes\n\n\n\n\n\nMáscara de nubes\n\n\n\n\n\n\n\n\n\n👨‍🏫 2. NDVI - Reconstruccion\n\n\n\n\n\nReconstruccion de series temporales\n\n\n\n\n\n\n\n\n\n👨‍🏫 Opcional\n\n\n\n\n\nEnlace a script en GEE\nOtros indices de vegetación",
+    "crumbs": [
+      "🗓️ Sesiones",
+      "Sesion 04",
+      "💻 Práctica"
+    ]
   }
 ]
