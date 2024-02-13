@@ -8,7 +8,7 @@ Los ejercicios prácticos de la **Sesión 1** comprenden tres bloques:
 
 ## 👨‍🏫 1. Cómo acceder  a Google Earth Engine
 
-[Acceso a GEE y Nociones de JavaScript](https://ials.github.io/GEE/00-access-javascript/index.html)
+[Acceso a GEE y Nociones de JavaScript](https://ials.github.io/GEE-RIO/00-access-javascript/index.html)
 
 :::
 
@@ -16,7 +16,7 @@ Los ejercicios prácticos de la **Sesión 1** comprenden tres bloques:
 
 ## 👨‍🏫 2. Para qué es útil Google Earth Engine
 
-[Introducción a GEE](https://ials.github.io/GEE/01-introduction/index.html)
+[Introducción a GEE](https://ials.github.io/GEE-RIO/01-introduction/index.html)
 
 :::
 
@@ -24,7 +24,7 @@ Los ejercicios prácticos de la **Sesión 1** comprenden tres bloques:
 
 ## 👨‍🏫 3. Cómo escribir código en Google Earth Engine
 
-[Editor de código](https://ials.github.io/GEE/02-code-editor/index.html)
+[Editor de código](https://ials.github.io/GEE-RIO/02-code-editor/index.html)
 
 :::
 

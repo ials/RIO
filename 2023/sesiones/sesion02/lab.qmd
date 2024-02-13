@@ -8,7 +8,7 @@ Los ejercicios prácticos de la **Sesión 2** comprenden tres bloques:
 
 ## 👨‍🏫 1. Composiciones a color
 
-[Composiciones a color](https://ials.github.io/GEE/03-bands-combinations/index.html)
+[Composiciones a color](https://ials.github.io/GEE-RIO/03-bands-combinations/index.html)
 
 :::
 
@@ -16,7 +16,7 @@ Los ejercicios prácticos de la **Sesión 2** comprenden tres bloques:
 
 ## 👨‍🏫 2. Indices espectrales - Landsat 8
 
-[Series de tiempo NDVI - L8](https://ials.github.io/GEE/04-L8-indices/index.html)
+[Series de tiempo NDVI - L8](https://ials.github.io/GEE-RIO/04-L8-indices/index.html)
 
 :::
 
@@ -24,7 +24,7 @@ Los ejercicios prácticos de la **Sesión 2** comprenden tres bloques:
 
 ## 👨‍🏫 3. Indices espectrales - Sentinel 2
 
-[Series de tiempo NDVI -S2](https://ials.github.io/GEE/05-S2-indices/index.html)
+[Series de tiempo NDVI -S2](https://ials.github.io/GEE-RIO/05-S2-indices/index.html)
 
 :::
 
